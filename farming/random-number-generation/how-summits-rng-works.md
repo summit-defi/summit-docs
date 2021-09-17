@@ -1,0 +1,2 @@
+# How SUMMITs RNG works
+
