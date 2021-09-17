@@ -20,7 +20,7 @@ If you would like to reach out to us, our tags are:
   * discord - `Yankee Ruin X ™#1681`
   * tg - `@YankeeRuinX`
 * Kuo
-  * discord - `Kuosumi - WILL NOT message first#1337`
+  * discord - `Kuo#1337`
   * tg - `@Summit2uo`
 
 **We will never DM you first,** please avoid the scams and never respond to unsolicited DM's.  
