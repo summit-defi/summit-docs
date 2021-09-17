@@ -1,8 +1,9 @@
-# Cosmic Deities \(Todo - Bull/Bear Picture\)
+# Cosmic Deities
 
-The fate of each round of an Expedition is decided by two warring Deities, each fighting to earn or steal the pot.
+The fate of each round of an Expedition is decided by two warring Deities, each fighting to earn or steal the pot.  
+  
+**&lt;todo: insert screenshot bull + bear&gt;**  
 
-TODO: COSMIC BULL . . . . . . . COSMIC BEAR
 
 ## The Cosmic Deities
 

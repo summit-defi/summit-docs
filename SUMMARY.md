@@ -7,7 +7,7 @@
   * [Oasis Overview](quick-start/oasis.md)
   * [Totems and Elevations](quick-start/totems-and-elevations.md)
   * [Expeditions \(Todo - Screenshot\)](quick-start/expeditions.md)
-* [Social Accounts \(Todo - Discord\)](socials.md)
+* [Social Accounts](socials.md)
 * [Summit Team](team.md)
 * [Roadmap](roadmap.md)
 
@@ -22,10 +22,10 @@
 * [Totems](farming/totem/README.md)
   * [How to: Select Your Totem \(Todo - Screenshots\)](farming/totem/selecting-totem.md)
   * [Totems FAQ](farming/totem/faq.md)
-* [Oasis Farms \(Todo - Screenshots\)](farming/oasis.md)
+* [Oasis Farms](farming/oasis.md)
 * [Elevation Farms \(Yield Gambling\)](farming/elevation/README.md)
-  * [How to: Elevation Farm \(Todo - Screenshots\)](farming/elevation/how-to.md)
-  * [Vesting and Harvesting \(Todo - Screenshots\)](farming/elevation/vesting-and-harvesting.md)
+  * [How to: Elevation Farm](farming/elevation/how-to.md)
+  * [Vesting and Harvesting](farming/elevation/vesting-and-harvesting.md)
 * [Elevating Funds](farming/elevate.md)
 * [Cross-Compound](farming/cross-compound.md)
 * [Random Number Generation](farming/random-number-generation/README.md)
@@ -34,9 +34,9 @@
 ## Expedition
 
 * [The Expedition](expedition/overview.md)
-* [Cosmic Deities \(Todo - Bull/Bear Picture\)](expedition/deities.md)
+* [Cosmic Deities](expedition/deities.md)
 * [How are Expeditions Funded?](expedition/funding.md)
-* [Joining the Expedition \(Todo - Screenshots\)](expedition/joining.md)
+* [Joining the Expedition](expedition/joining.md)
 * [Expedition FAQ & Troubleshooting](expedition/faq.md)
 
 ## FAQ
@@ -46,6 +46,6 @@
 ## Developers <a id="code"></a>
 
 * [Github](code/github.md)
-* [Smart Contracts \(Todo - On Launch\)](code/smart-contracts.md)
+* [Smart Contracts](code/smart-contracts.md)
 * [Bug Bounty](code/bug-bounty.md)
 

@@ -1,4 +1,4 @@
-# Oasis Farms \(Todo - Screenshots\)
+# Oasis Farms
 
 {% hint style="success" %}
 **The OASIS is functionally equivalent to standard yield farming projects, stake tokens / LP, earn SUMMIT.** 
@@ -20,8 +20,8 @@ By mixing your investment amounts between Elevations, you can ensure that your f
 
 ## How To: Farm at the OASIS
 
-1. **Select OASIS from the left nav:**
-2. **Select the OASIS farm you wish to join:**
-3. **Approve the Contract if necessary:**
-4. **Deposit your Tokens / LP and begin earning:**
+1. **Select OASIS from the left nav:  &lt;todo: insert screenshot&gt;** 
+2. **Select the OASIS farm you wish to join:  &lt;todo: insert screenshot&gt;** 
+3. **Approve the Contract if necessary:  &lt;todo: insert screenshot&gt;** 
+4. **Deposit your Tokens / LP and begin earning:  &lt;todo: insert screenshot&gt;** 
 

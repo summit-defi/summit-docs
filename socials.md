@@ -1,8 +1,8 @@
-# Social Accounts \(Todo - Discord\)
+# Social Accounts
 
 
 
-Discord - [https://discord.gg/3nQ4aNgsXD](https://discord.gg/3nQ4aNgsXD)
+Discord - [https://discord.gg/summitdefi](https://discord.gg/summitdefi)
 
 Twitter -  [https://twitter.com/SummitDefi](https://twitter.com/SummitDefi)
 

@@ -1,7 +1,9 @@
-# Smart Contracts \(Todo - On Launch\)
+# Smart Contracts
 
 Summit DeFi Smart Contract addresses on FTM.  
-The Summit smart contract system is quite intricate, please see the [Smart Contract GitHub repo](https://github.com/summit-defi/summit-contracts) for full information on each contract and how they interact.
+The Summit smart contract system is quite intricate, please see the [Smart Contract GitHub repo](https://github.com/summit-defi/summit-contracts) for full information on each contract and how they interact.  
+  
+**&lt;todo: update contracts with live values on FTM&gt;**
 
 | **Contract Name** | Address | Ftmscan |
 | :--- | :--- | :--- |

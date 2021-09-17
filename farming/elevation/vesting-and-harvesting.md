@@ -1,4 +1,4 @@
-# Vesting and Harvesting \(Todo - Screenshots\)
+# Vesting and Harvesting
 
 {% hint style="success" %}
 #### Vesting requires your winnings to mature before you can withdraw them.
@@ -17,6 +17,27 @@ Vesting prevents frequent SUMMIT token price crashes by slowly letting winnings 
 ## Harvesting Winnings
 
 1. **Wait for some \(or all\) of your winnings to Vest:**
+
+   \*\*\*\*
+
+   **&lt;todo: insert screenshot&gt;**
+
+   \*\*\*\*
+
 2. **Use the `Harvest` button to withdraw available winnings:**
-3. **OR - Use the `Cross-Compound` button to harvest your winnings directly into the SUMMIT token farm at the same elevation: \(more info on cross-compounding** [**here**](../cross-compound.md)**\)**
+
+   \*\*\*\*
+
+   **&lt;todo: insert screenshot&gt;**
+
+   \*\*\*\*
+
+3. **OR - Use the `Cross-Compound` button to harvest your winnings directly into the SUMMIT token farm at the same elevation:  
+   \(more info on cross-compounding** [**here**](../cross-compound.md)
+
+   \*\*\*\*
+
+   **&lt;todo: insert screenshot&gt;**
+
+   \*\*\*\*
 

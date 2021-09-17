@@ -14,7 +14,7 @@ Once daily, the following maintenance of the treasury will occur:
 * Earned LPs in the Expedition Treasury will be broken.
 * All funds will be converted into stablecoins to insulate against the market.
 
-These transactions will be made in the easiest to externally track way.  If we notice too many traders arbitraging against our buying process this will change, but rest assured, the aim is to maximize the amount of funds in the expedition.
+If we notice too many traders arbitraging against our buying process this will change, but rest assured, the aim is to maximize the amount of funds in the expedition.
 
 ## Deposit Fees
 
