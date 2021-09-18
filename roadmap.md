@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-masthead.jpg)
 
-OK so it's not actually a roadmap: it's a to-do list. Times stated are estimates, however we will clearly communicate if there is a change.  
+Less of a true roadmap and more of a tour of the future of Summit DeFi. Dates stated are estimates, however we will clearly communicate if there is a change.  
   
 We are committed to making SUMMIT a lasting player in the Defi world. We have put too much work in to be happy with the standard 1 month birth & death cycle of yield farms, so take a look below to see what our future holds.
 
