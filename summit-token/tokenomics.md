@@ -56,7 +56,7 @@ Treasury funds will be used for the following purposes:
 
 * **Pay artists for assets and NFTs that will be created.**
 * **Pay for audits of future contracts.**
-* **Bug Bounty P**
+* **Bug Bounty Payouts**
 * **Hire moderators for TG and Discord.**
 * **Given out as rewards for Twitter / Discord competitions.**
 * **Boost vaults to spread awareness.**
