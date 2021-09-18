@@ -1,5 +1,7 @@
 # Brief Overview
 
+![](../.gitbook/assets/brief-overview-masthead.jpg)
+
 ## Welcome to Summit DeFi!
 
 This quick start guide will give an overview of the Summit token and ecosystem, each page will have links for more information.

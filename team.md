@@ -1,5 +1,7 @@
 # Summit Team
 
+![](.gitbook/assets/summit-team-masthead.jpg)
+
 ## Summit Team
 
 Our team is a small group of DeFi enthusiasts, dedicated to supporting and improving the underlying DeFi ecosystem through expansion of the available options to the community, introducing unique mechanics to the Fantom ecosystem.

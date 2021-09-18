@@ -6,7 +6,7 @@
   * [SUMMIT Token](quick-start/summit-token.md)
   * [Oasis Overview](quick-start/oasis.md)
   * [Totems and Elevations](quick-start/totems-and-elevations.md)
-  * [Expeditions \(Todo - Screenshot\)](quick-start/expeditions.md)
+  * [Expeditions](quick-start/expeditions.md)
 * [Social Accounts](socials.md)
 * [Summit Team](team.md)
 * [Roadmap](roadmap.md)

@@ -1,5 +1,7 @@
 # Totems and Elevations
 
+![](../.gitbook/assets/totems-and-elevations-overview-masthead.jpg)
+
 ## TOTEMS - What are these adorable creatures and why should I care?
 
 Totems are your champions of the Elevation Farms, they are working hard to make sure you win big and boost your SUMMIT yields. They battle 24/7, for your yields, so show them some support!

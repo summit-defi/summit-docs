@@ -1,5 +1,7 @@
 # Launch Timeline
 
+![](.gitbook/assets/launch-timeline-masthead.jpg)
+
 The Summit DeFi ecosystem launch will proceed as follows:
 
 ## Day 0

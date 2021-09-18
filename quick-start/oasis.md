@@ -1,5 +1,7 @@
 # Oasis Overview
 
+![](../.gitbook/assets/oasis-overview-masthead.jpg)
+
 **THE OASIS** is ground zero of Summit Defi. Farms at the Oasis function like traditional farms:
 
 * Deposit tokens / LP in the corresponding farm
