@@ -36,7 +36,7 @@ In DeFi terms, only your yield is gambled, never your staked amount.
 
 Tailor your strategy between different elevations to match your risk tolerance. From guaranteed earnings to betting on the ponies, we've got you covered.
 
-### **Zero** Opportunity cost
+### **Zero** Opportunity Cost
 
 Usually yield farming means your funds can't earn consistent and guaranteed rewards in other farms and vaults.
 
