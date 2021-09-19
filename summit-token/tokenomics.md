@@ -1,5 +1,7 @@
 # Tokenomics
 
+![](../.gitbook/assets/tokenomics-masthead.jpg)
+
 ## Overview
 
 SUMMIT is the primary token of the Summit DeFi ecosystem, it is earned through farming or by swapping at the designated exchange.
