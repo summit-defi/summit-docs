@@ -6,14 +6,14 @@ The Summit DeFi ecosystem launch will proceed as follows:
 
 ## Day 0
 
-* Summit DeFi will always launch on a Friday in the afternoon. The exact time will depend on the launch type, but will be known long before the actual launch takes place.
+* Summit DeFi will always launch on a Friday in the afternoon \(GMT Timezone\). The exact time will depend on the launch type, but will be known long before the actual launch takes place.
 * SUMMIT token will become available either through a fair launch or a presale.
 * The Summit Defi ecosystem will be enabled and farming will begin.
 * **OASIS farms** will be available immediately.
 
 ## Day 0 - Top of the Hour
 
-Following Launch, at the next top of the hour \(ex: 3:37pm launch --&gt; **4:00pm next top of hour**\):
+Following Launch, at the next top of the hour \(ex: 3:37pm GMT launch --&gt; **4:00pm GMT next top of hour**\):
 
 * **PLAINS farms** will become available for farming with 2 totems and 2 hour rounds.
 * All remaining feature unlocks will occur at this same time during future days.

@@ -56,7 +56,7 @@ It's not required to micromanage your funds every round \(you can if you'd like\
 
 ### Referrals
 
-Refer your friends \(no limit on amount\) and receive a 1% referral bonus of the **SUMMIT** those friends earn. Simply share your wallet address with them and your on your way.
+Refer your friends \(no limit on amount\) and receive a 1% referral bonus of the **SUMMIT** those friends earn. Simply share your wallet address with them and you're on your way.
 
 Don't forget to add the address of the user that referred you, and receive an **EXTRA** 1% bonus of your _own_ **SUMMIT** earned.
 
