@@ -1,5 +1,7 @@
 # Oasis Farms
 
+![](../.gitbook/assets/the-oasis-masthead.jpg)
+
 {% hint style="success" %}
 **The OASIS is functionally equivalent to standard yield farming projects, stake tokens / LP, earn SUMMIT.** 
 

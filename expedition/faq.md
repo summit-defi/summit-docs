@@ -1,5 +1,7 @@
 # Expedition FAQ & Troubleshooting
 
+![](../.gitbook/assets/expedition-faq-masthead.jpg)
+
 ## How is the Expedition funded?
 
 50% of Deposit Fees and 92% of Passthrough Strategy rewards are used to create and fund Expeditions.

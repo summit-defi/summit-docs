@@ -1,9 +1,10 @@
 # Cosmic Deities
 
-The fate of each round of an Expedition is decided by two warring Deities, each fighting to earn or steal the pot.  
-  
-**&lt;todo: insert screenshot bull + bear&gt;**  
+![](../.gitbook/assets/deities-masthead.jpg)
 
+{% hint style="success" %}
+#### The fate of each round of an Expedition is decided by two _warring Deities_, each fighting to earn or steal the pot.
+{% endhint %}
 
 ## The Cosmic Deities
 

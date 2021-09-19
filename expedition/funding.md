@@ -1,5 +1,7 @@
 # How are Expeditions Funded?
 
+![](../.gitbook/assets/expedition-funding-masthead.jpg)
+
 Expeditions are funded out of the **Expedition Treasury**. You can think of this treasury as a 'back into the system' fund. **100%** of Tokens in this Treasury are put back into the ecosystem to benefit SUMMIT holders. This treasury grows in **2** ways:
 
 1. **50%** of Deposit Fees go to the Expedition Treasury

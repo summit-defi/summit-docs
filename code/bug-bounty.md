@@ -1,5 +1,7 @@
 # Bug Bounty
 
+![](../.gitbook/assets/bug-bounty-masthead.jpg)
+
 Though our codebase has been audited by Obelisk, and thoroughly tested with a rigorous testing suite, no code is perfect.
 
 If you find any bugs in the Summit DeFi contracts, please immediately bring it to our attention.

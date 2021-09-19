@@ -1,5 +1,7 @@
 # Joining the Expedition
 
+![](../.gitbook/assets/joining-the-expedition-masthead.jpg)
+
 ## Choose a Deity and enter Expedition.
 
 **1. Select the Expedition tab of the Left Nav.**

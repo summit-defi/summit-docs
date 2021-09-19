@@ -1,5 +1,7 @@
 # Risks
 
+![](../.gitbook/assets/risks-faq-masthead.jpg)
+
 ## Can I lose my assets? <a id="docs-internal-guid-a9913b50-7fff-cc10-39ab-3596e6286cd0"></a>
 
 The whole point of SUMMIT is that no one needs to lose. Everyone can win! So if you deposit assets in one of our pools you are taking a journey where all you risk is the loss of staking rewards, up to the level of risk you want to play for!  Your capital is never at risk.   

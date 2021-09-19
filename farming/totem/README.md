@@ -1,5 +1,7 @@
 # Totems
 
+![](../../.gitbook/assets/totems-masthead.jpg)
+
 ## **What are Totems?**
 
 Totems represent collections of staked funds in the farms. You can imagine your Totem sitting down at a poker table trying to win you money.

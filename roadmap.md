@@ -4,7 +4,7 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-![](.gitbook/assets/roadmap-masthead.jpg)
+![](.gitbook/assets/roadmap-masthead%20%281%29.jpg)
 
 Less of a true roadmap and more of a tour of the future of Summit DeFi. Dates stated are estimates, however we will clearly communicate if there is a change.  
   

@@ -1,6 +1,6 @@
 # Summit Team
 
-![](.gitbook/assets/summit-team-masthead.jpg)
+![](.gitbook/assets/summit-team-masthead%20%281%29.jpg)
 
 ## Summit Team
 
