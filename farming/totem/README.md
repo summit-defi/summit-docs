@@ -1,6 +1,6 @@
 # Totems
 
-![](../../.gitbook/assets/totems-masthead.jpg)
+![](../../.gitbook/assets/totems-masthead%20%281%29.jpg)
 
 ## **What are Totems?**
 
