@@ -1,6 +1,10 @@
 # Cross-Compound
 
-> **"Cross-Compounding"** harvests the available SUMMIT rewards from any Summit DeFi Token / LP farm, and deposits them directly into the respective **SUMMIT** token farm at that same elevation.
+![](../.gitbook/assets/cross-compounding-masthead.jpg)
+
+{% hint style="success" %}
+**"Cross-Compounding"** harvests the available SUMMIT rewards from any Summit DeFi Token / LP farm, and deposits them directly into the respective **SUMMIT** token farm at that same elevation.
+{% endhint %}
 
 The ability to Cross-Compound your winnings as they become harvestable reduces friction and allows users to reduce farming downtime. User's gas is saved by replacing two transactions to accomplish a compounding task with a single one.
 

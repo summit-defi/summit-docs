@@ -1,5 +1,11 @@
 # Random Number Generation
 
+![](../../.gitbook/assets/rng-masthead.jpg)
+
+{% hint style="info" %}
+#### This is more of a technical documentation, and isn't a _must read ****_**to understand the Summit ecosystem.**
+{% endhint %}
+
 ## **Randomness Flow**
 
 Random number generation is used to select the winning totem, and must be ensured to be accurate. Randomness is ensured by using a webserver watching the state of `ElevationHelper.sol` \(open source\) and seeding randomness using the following flow:

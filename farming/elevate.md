@@ -1,5 +1,7 @@
 # Elevating Funds
 
+![](../.gitbook/assets/elevating-funds-masthead.jpg)
+
 {% hint style="success" %}
 **Elevating funds transfers staked tokens or LP from one elevation to another, without requiring separate withdraw & deposit transactions.**
 
