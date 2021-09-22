@@ -9,9 +9,9 @@
            staked SUMMIT +  
            SUMMIT** _**inside**_ **staked** _****_**SUMMIT-FTM LP**
 
-_SUMMIT and SUMMIT-FTM LP can be deposited \(or withdrawn\) simultaneously in  a single deposit \(or withdraw\) transaction!_
+_SUMMIT and SUMMIT-FTM LP can be deposited \(or withdrawn\) simultaneously in a single deposit \(or withdraw\) transaction._
 
-_Both SUMMIT and SUMMIT-FTM LP can be elevated into and out of Expeditions from other farms!_
+_Both SUMMIT and SUMMIT-FTM LP can be elevated into and out of Expeditions from other farms._
 {% endhint %}
 
 #### \* This page is not required reading, and is somewhat technical on the Multi-Staking implementation, feel free to skip it if the Hint above was enough for you \*
