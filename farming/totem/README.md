@@ -8,7 +8,7 @@ Totems represent collections of staked funds in the farms. You can imagine your 
 
 A single Totem represents you across an elevation, and all your funds will be staked with that totem.
 
-## **What choosing a Totem means?**
+## **What does choosing a Totem mean?**
 
 Not only is your Totem responsible for your success or failure across an entire elevation, but you are never alone.
 
