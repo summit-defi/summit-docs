@@ -4,7 +4,7 @@
 
 **Elevation farming** is the cornerstone of Summit. Elevation Farms are built around Yield Gambling, a new way of interacting with your farmed Yield, and potentially multiplying it massively.
 
-Elevation farms are built to bring excitement, tension, and community \(through totems\) to the DeFi space. Additionally the progressive round times , progressive average yield, and vesting allows Elevation farms to help regulate SUMMIT price fluctuations.
+Elevation farms are built to bring excitement, tension, and community \(through totems\) to the DeFi space. Additionally the progressive round times, progressive average yield, and vesting allows Elevation farms to help regulate SUMMIT price fluctuations.
 
 ## The Elevations
 
