@@ -6,7 +6,7 @@ Discord - [https://discord.gg/summitdefi](https://discord.gg/summitdefi)
 
 Twitter -  [https://twitter.com/SummitDefi](https://twitter.com/SummitDefi)
 
-Medium - [https://medium.com/@summitdefi](https://medium.com/@summitdefi)
+Medium - [https://medium.summitdefi.com/](https://medium.summitdefi.com/)
 
 Telegram \(Not Active - just reserved\) -
 
