@@ -1,6 +1,6 @@
 # Tokenomics
 
-![](../.gitbook/assets/tokenomics-masthead.jpg)
+![](../.gitbook/assets/tokenomics-masthead%20%281%29.jpg)
 
 ## Overview
 
