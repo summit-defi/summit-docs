@@ -23,7 +23,7 @@ If you would like to reach out to us, our tags are:
   * tg - `@YankeeRuinX`
 * Kuo
   * discord - `Kuo#1337`
-  * tg - `@Summit2uo`
+  * tg - `@SummitKuo`
 
 **We will never DM you first,** please avoid the scams and never respond to unsolicited DM's.  
 
