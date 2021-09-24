@@ -16,7 +16,7 @@ We are committed to making SUMMIT a lasting player in the Defi world. We have pu
 * [x] **March 2021 -** Land on Yield Gambling, and begin initial discovery phase of development
 * [x] **May 2021 -** MVP of Yield Gambling finished and tested internally, full commitment to Summit DeFi
 * [x] **Early July 2021 -** Contracts Completed for Yield Gambling, Oasis Farming, Expeditions, and Referrals. Additionally full testing suite created.
-* [x] **Early July 2021 -** Hire Mr Tapas to illustrate our totems
+* [x] **Early July 2021 -** Hire illustrator to create our Totem and Deity artworks
 * [x] **Late July 2021 - Contracts Polished** with Elevating, Cross Compounding, Random Number Generation system, and Expedition Multi-Staking.
 * [x] **Late July 2021 - Frontend Finalized** with near final version of Contracts
 * [x] **August 2021 -** Begin Audit process with Obelisk
