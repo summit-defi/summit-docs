@@ -29,7 +29,6 @@ We are committed to making SUMMIT a lasting player in the Defi world. We have pu
 
 {% page-ref page="launch-timeline.md" %}
 
-* [ ] Reach out for partnerships with established players \(already begun\)
 * [ ] Standard token listings \(coingecko / CMC\)
 * [ ] Grow socials presence, partnerships and giveaways
 
