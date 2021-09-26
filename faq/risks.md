@@ -17,23 +17,27 @@ Apart from the deposit fee - No. SUMMIT will never take your staked tokens from 
 
 ## What risks am I taking when staking on SUMMIT?
 
-Nothing is entirely risk-free.  And that is especially true of Crypto.   We believe in safety and have made certain our smart contract is audited by reputable organizations. 
+Nothing is entirely risk-free.  And that is especially true of Crypto.   We believe in safety and have made certain our smart contract is audited by a reputable organization. 
 
 Our mission is to help you grow your assets, not lose them.  We avoid risky DeFi products and accept lower yields in favor of the security that comes from working with proven partners.
 
-The only risks we can think of are: \(1\) if there is a bug or exploit in SUMMITs smart contracts that can be taken advantage of, or \(2\) if one of the DeFi products we’re using to earn interest for the platform has a problem or fundamental failure. We’ve worked hard to reduce these risks by \(1a\) having our code extensively audited by Obelisk, a third-party auditing service that specializes in smart contracts and \(2\) being very cautious about which partners and products we work with to earn interest. 
+The only risks we can think of are: \(1\) if there is a bug or exploit in SUMMITs smart contracts that can be taken advantage of, or \(2\) if one of the DeFi products we’re using to earn interest for the platform has a problem or fundamental failure. We’ve worked hard to reduce these risks by \(1a\) having our code extensively audited by Obelisk, a third-party auditing service that specializes in smart contracts and \(2\) being very cautious about which partners and products we work with to earn interest.  
+
+Additionally, there is an ongoing bug bounty live and running. You can find more about this in our Developer section within our Docs.  
 
 ## What can I lose?
 
 Aside from the deposit fee, you can’t lose your deposit with SUMMIT.  We would hope the yield farming and pass through staking, and our eco system makes it a worthy trade-off to help grow your assets.
 
+Interacting with our farms and expeditions requires transactions on the  blockchain, with cost and speed dependent on the network status and transaction complexity.  
+
 This is still DeFi and an investment, and that brings risk.  Please be sure to never invest money you can’t afford to lose.
 
-## How do I know this isn’t a scam?
+## What is the team ethos?
 
-We don’t think it’s a scam... but hey that’s what everyone says.  All we can say is we’ve been around crypto for years, have invested, won, lost, and ~~cried~~ learned along the way.  We wanted to try and put our unique spin on DeFi.  We hope it succeeds, but if it doesn’t, we’re going down with the ship. 
+We’ve been around crypto for years, have invested, won, lost, and ~~cried~~ learned along the way.  We wanted to try and put our unique spin on DeFi.  We hope it succeeds, but if it doesn’t, we’re going down with the ship. 
 
-We’ve paid for audits and have plans to grow, both to other blockchains and with more ideas.  To us, that is the pay off.  We'd like to be able to look at ourselves in the mirror each morning. 
+We’ve paid for audits and have plans to grow, both to other blockchains and with more ideas.  To us, that is the pay off.   
 
 We hope to build trust and grow our project and offerings.  This is our declaration to the DeFi space that we’re here and we hope you like what we have to offer.    
 
