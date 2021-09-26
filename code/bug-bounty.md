@@ -2,9 +2,9 @@
 
 ![](../.gitbook/assets/bug-bounty-masthead.jpg)
 
-Though our codebase has been audited by Obelisk, and thoroughly tested with a rigorous testing suite, no code is perfect.
+Though our Smart Contracts have been audited by Obelisk, and thoroughly tested with a rigorous testing suite, no code is perfect.
 
-If you find any bugs in the Summit DeFi contracts, please immediately bring it to our attention.
+If you find any bugs in the Summit DeFi Contracts, please immediately bring it to our attention.
 
 **We offer tiered bounties for different bug severity levels, and plan to be extremely fair with the payouts.**
 
