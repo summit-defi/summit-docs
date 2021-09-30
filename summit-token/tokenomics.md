@@ -35,7 +35,7 @@ This gives the opportunity for other investors, those who outlast, to earn the d
 
 ## **Lasting Value**
 
-Yield Gambling was designed with a sustainable SUMMIT token in mind. To increase the longevity of the SUMMIT token, higher elevation farms are given an **allocation boost** to incentivize users to move their staked tokens / LP to higher elevation.  
+Yield Multplier was designed with a sustainable SUMMIT token in mind. To increase the longevity of the SUMMIT token, higher elevation farms are given an **allocation boost** to incentivize users to move their staked tokens / LP to higher elevation.  
   
 Higher elevations are mathematically guaranteed to _always_ pay out more SUMMIT than lower elevations and oasis farms. Higher elevations feature longer rounds, and a decreased chance of win. Together, these features encourage a longer stay at a higher elevation to consistently break ahead of randomness. 
 

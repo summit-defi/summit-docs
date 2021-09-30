@@ -13,9 +13,9 @@ We are committed to making SUMMIT a lasting player in the Defi world. We have pu
 ### 2021
 
 * [x] **March 2021 -** Ideation of Summit DeFi Begins
-* [x] **March 2021 -** Land on Yield Gambling, and begin initial discovery phase of development
-* [x] **May 2021 -** MVP of Yield Gambling finished and tested internally, full commitment to Summit DeFi
-* [x] **Early July 2021 -** Contracts Completed for Yield Gambling, Oasis Farming, Expeditions, and Referrals. Additionally full testing suite created.
+* [x] **March 2021 -** Land on Yield Multiplier, and begin initial discovery phase of development
+* [x] **May 2021 -** MVP of Yield Multiplier finished and tested internally, full commitment to Summit DeFi
+* [x] **Early July 2021 -** Contracts Completed for Yield Multiplier, Oasis Farming, Expeditions, and Referrals. Additionally full testing suite created.
 * [x] **Early July 2021 -** Hire illustrator to create our Totem and Deity artworks
 * [x] **Late July 2021 - Contracts Polished** with Elevating, Cross Compounding, Random Number Generation system, and Expedition Multi-Staking.
 * [x] **Late July 2021 - Frontend Finalized** with near final version of Contracts
@@ -41,7 +41,7 @@ Will begin after launches settle and resources free up
 * [ ] Create NFT based profiles, integrate NFTs into tokenomics
 * [ ] NFT staking expeditions, stake NFTs and earn stablecoins
 * [ ] Begin creation of new yield gambling skill based games 
-* [ ] Release skill based yield gambling games
+* [ ] Release skill based yield multiplying games
 * [ ] Apply to exchanges to list SUMMIT token
 
 

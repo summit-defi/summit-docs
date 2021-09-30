@@ -6,7 +6,7 @@
 #### Summit Defi brings a new flavor to the world of Yield Farming on Fantom Opera.
 
 _**Choose your Totem.  
-Gamble your Yield.  
+Risk your Yield.  
 Farm Big,** or not at all**.**_
 {% endhint %}
 
@@ -47,7 +47,7 @@ Expeditions eliminate opportunity cost, and return the passthrough rewards right
 ## Experimental, but Robust
 
 {% hint style="info" %}
-**Yield Gambling is a new concept, but we have spent the time to envision and build a fully featured ecosystem around it.**
+**Yield Multipier is a new concept, but we have spent the time to envision and build a fully featured ecosystem around it.**
 {% endhint %}
 
 ### Set it and Forget it
@@ -85,5 +85,5 @@ You shouldn't be penalized for moving to a higher elevation, in fact, you should
 Summit DeFi has been audited by Obelisk, but if you do find a bug please get in contact - we recognize no code is perfect.
 
 **Sounds like fun?  
-Then get yield gambling!!**
+Then get yield multiplying!!**
 
