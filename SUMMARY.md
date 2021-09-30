@@ -23,7 +23,7 @@
   * [How to: Select Your Totem \(Todo - Screenshots\)](farming/totem/selecting-totem.md)
   * [Totems FAQ](farming/totem/faq.md)
 * [Oasis Farms](farming/oasis.md)
-* [Elevation Farms \(Yield Gambling\)](farming/elevation/README.md)
+* [Elevation Farms \(Yield Multiplier\)](farming/elevation/README.md)
   * [How to: Elevation Farm](farming/elevation/how-to.md)
   * [Vesting and Harvesting](farming/elevation/vesting-and-harvesting.md)
 * [Elevating Funds](farming/elevate.md)

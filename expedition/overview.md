@@ -14,7 +14,7 @@ Let the **Gods** decide your fate._
 
 Put simply, Expeditions add intrinsic value to the SUMMIT token. Over the course of a week, our entire TVL goes to work, earning funds to build pots that are won by holders of SUMMIT.   
   
-**At the end of the week, an Expedition distributes these pots back to SUMMIT holders, with a touch of gambling thrown in because we are still Summit deFi.**
+**At the end of the week, an Expedition distributes these pots back to SUMMIT holders, with a touch of risk thrown in because we are still Summit deFi.**
 
 For Example:  
 Light hearted users may withdraw and sell their SUMMIT, but their staked amount had already earned passthrough rewards which seed the Expedition pot.  

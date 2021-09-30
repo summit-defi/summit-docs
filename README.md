@@ -10,7 +10,7 @@ Gamble your Yield.
 Farm Big,** or not at all**.**_
 {% endhint %}
 
-## Introducing Yield Gambling
+## Introducing Yield Multiplier
 
 Why limit your farming yield to only what _**you**_ farm.
 
@@ -26,11 +26,11 @@ Oh right, they can also win **your yield** as well.
 
 
 
-### Gamble the Milk, not the Cow
+### Risk the Milk, not the Cow
 
-Gambling traditionally means putting your funds at risk, but instead of gambling the principle, you only gamble the interest. Your staked funds are always 100% safe, all you have to lose is a bit of your time.
+Instead of risking the principle, you only risk the interest. Your staked funds are always 100% safe, all you have to lose is a bit of your time.
 
-In DeFi terms, only your yield is gambled, never your staked amount.
+In DeFi terms, only your yield is at risk, never your staked amount.
 
 ### Set Your Own Risk
 

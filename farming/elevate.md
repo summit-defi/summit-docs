@@ -20,7 +20,7 @@ You can Elevate funds at any time from any farm to a matching farm \(a farm shar
 
 ## Can I elevate into the Expedition?
 
-Of course. Expeditions stake SUMMIT and/or SUMMIT-FTM LP, and either can be transferred directly from a farm to an expedition \(and back again\) without slowing down your farming and yield gambling at all.
+Of course. Expeditions stake SUMMIT and/or SUMMIT-FTM LP, and either can be transferred directly from a farm to an expedition \(and back again\) without slowing down your farming and yield multiplying at all.
 
 ## Do I lose my winnings if I elevate?
 

@@ -6,7 +6,7 @@
 _**In the interest of transparency, we have written this article so our users are as informed as possible.**_
 {% endhint %}
 
-Random Number Generation is at the core of any gambling based ecosystem. If the result can be manipulated or known before hand, the entire system comes crumbling down.  
+Random Number Generation is at the core of our ecosystem. If the result can be manipulated or known before hand, the entire system comes crumbling down.  
   
 We have done everything we can to prevent this from happening, but there is theoretically still a way for this to be manipulated.
 

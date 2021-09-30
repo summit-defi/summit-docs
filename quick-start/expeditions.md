@@ -10,7 +10,7 @@
 
 Welcome to Expeditions. This is what it's all been building up to, where diamond hand SUMMIT holders reap the rewards beyond farming and winning our wonderful token.
 
-While you have been having fun gambling your yields and winning the yields of others, rallying your totems, and increasing your bag of SUMMIT, your assets have been hard at work all week earning yields and filling up the Expedition prize pot.
+While you have been having fun risking your yields and winning the yields of others, rallying your totems, and increasing your bag of SUMMIT, your assets have been hard at work all week earning yields and filling up the Expedition prize pot.
 
 **Every weekend we have three Expedition draws - Friday, Saturday and Sunday where the entirety of the prize pot is distributed to winning SUMMIT holders.**
 

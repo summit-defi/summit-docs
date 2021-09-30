@@ -1,8 +1,8 @@
-# Elevation Farms \(Yield Gambling\)
+# Elevation Farms \(Yield Multiplier\)
 
 ![](../../.gitbook/assets/elevation-farming-masthead.jpg)
 
-**Elevation farming** is the cornerstone of Summit. Elevation Farms are built around Yield Gambling, a new way of interacting with your farmed Yield, and potentially multiplying it massively.
+**Elevation farming** is the cornerstone of Summit. Elevation Farms are built around Yield Multiplier, a new way of interacting with your farmed Yield, and potentially multiplying it massively.
 
 Elevation farms are built to bring excitement, tension, and community \(through totems\) to the DeFi space. Additionally the progressive round times, progressive average yield, and vesting allows Elevation farms to help regulate SUMMIT price fluctuations.
 
@@ -17,7 +17,7 @@ The OASIS not an elevation farm and does not feature yield gambling._
 
 \_\_[Elevations unlock over the first week after project launch, see launch timeline for further detail.](../../launch-timeline.md)
 
-## What are "Elevation Farms", and what is "Yield Gambling"?
+## What are "Elevation Farms", and what is "Yield Multiplier"?
 
 When staked in a Standard \(i.e. Oasis\) Farm, rewards are generated continuously and can be harvested freely, as you'd experience in any old DeFi farm.
 
@@ -25,13 +25,13 @@ When staked in a Standard \(i.e. Oasis\) Farm, rewards are generated continuousl
 
 Farms are divided into totems, the number of which vary by elevation.  Over the course of a ‘round’ \(either 2h, 4h, or 8h depending on elevations\) the staking rewards of each totem at each elevation are gathered together in one pot.  One of the totems is randomly selected as the winner, with that totem earning the total staking rewards accumulated during that round.
 
-Regardless of win or loss, your staked funds are always safe and available to you, and will continue to build your yield for gambling in the next round.
+Regardless of win or loss, your staked funds are always safe and available to you, and will continue to build your yield for risking in the next round.
 
 **Like the OASIS farms, Elevation farms utilize** [**passthrough staking**](../../summit-token/passthrough.md) **to maximize the value of your staked tokens and LP.**
 
 ### **Key Points of Note**
 
-* You can stake at any point during a round. You will immediately begin accumulating your **yield** \(the yield part of yield gambling\) as soon as you stake. The earlier in a round you stake, the higher your gambled yield, and the higher your potential winnings. 
+* You can stake at any point during a round. You will immediately begin accumulating your **yield** \(the yield part of yield multiplier\) as soon as you stake. The earlier in a round you stake, the higher your gambled yield, and the higher your potential winnings. 
 * **60 seconds** before the end of the round, the farm will lock. During this time the winning totem is selected and the round finalized. 
 * At the end of the round, your selected **Totem** will either win or lose. If you win, your winnings will **vest** over the duration of the following round. 
 * You can harvest your winnings as they become available at any point in time. Alternatively you can wait until they completely vest to withdraw in a single transaction. 
