@@ -12,7 +12,7 @@ You will have a unique totem for each elevation you stake in. All farms at an el
 
 ## ELEVATION FARMS - Yield gamble to earn big
 
-Elevation Farms are round based farms where you gamble your accrued SUMMIT yields. We have created 3 elevations for you to explore, each with different risk-reward profiles. Each Elevation features a unique roster of Totems, and you will pick only one to be your champion.
+Elevation Farms are round based farms where you risk your accrued SUMMIT yields. We have created 3 elevations for you to explore, each with different risk-reward profiles. Each Elevation features a unique roster of Totems, and you will pick only one to be your champion.
 
 Here is breakdown of key details for each of the elevations \(including OASIS for comparison\):
 
@@ -94,7 +94,7 @@ Here is breakdown of key details for each of the elevations \(including OASIS fo
 4. Wait for round to rollover to see if you win or lose.
 5. If  you **win:** wait for your SUMMIT winnings to vest, and harvest at will.
 
-To see screenshots of the elevation farming process, see the in depth pages on [**how to select a totem**](../farming/totem/selecting-totem.md) and ****[**how to yield gamble**](../farming/elevation/how-to.md).
+To see screenshots of the elevation farming process, see the in depth pages on [**how to select a totem**](../farming/totem/selecting-totem.md) and ****[**how to yield multiply**](../farming/elevation/how-to.md).
 
 ### Mathematically Guaranteed
 

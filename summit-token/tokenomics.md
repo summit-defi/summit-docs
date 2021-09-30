@@ -50,7 +50,7 @@ All SUMMIT rewards paid out by farms feature **Vesting.** This means that althou
 
 Higher elevation farms feature longer round durations, ensuring that the larger payouts will also take longer to vest and become available for harvest.
 
-Additionally, increased staking at higher elevation will provide a buffer against rapid price fluctuations of the SUMMIT token. Users will be less willing to withdraw their staked tokens and break SUMMIT LP since these tokens will be actively accruing yield to be gambled. Leaving a round early can potentially lose a user a large amount of potential rewards, incentivizing users to ride out the price fluctuations instead of panic sell.
+Additionally, increased staking at higher elevation will provide a buffer against rapid price fluctuations of the SUMMIT token. Users will be less willing to withdraw their staked tokens and break SUMMIT LP since these tokens will be actively accruing yield to be risked. Leaving a round early can potentially lose a user a large amount of potential rewards, incentivizing users to ride out the price fluctuations instead of panic sell.
 
 ## **Treasury**
 

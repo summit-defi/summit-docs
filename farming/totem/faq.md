@@ -14,7 +14,7 @@
 
 There is no fee or penalty associated with switching Totems, other than gas.
 
-## If I switch Totems, do I lose my yield being gambled?
+## If I switch Totems, do I lose my yield being risked?
 
 No, your yield will move with you to the new Totem and will be included in the next round end event.
 

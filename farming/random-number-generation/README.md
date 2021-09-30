@@ -25,7 +25,7 @@ Random number generation is used to select the winning totem, and must be ensure
 
 
 
-**The entirety of this flow occurs during the 60 second lockout at the end of each round, preventing users from changing anything about their gambled yield until after the round is finalized.**
+**The entirety of this flow occurs during the 60 second lockout at the end of each round, preventing users from changing anything about their risked yield until after the round is finalized.**
 
 ## How the Flow guarantees Randomness
 
