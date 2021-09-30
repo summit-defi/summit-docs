@@ -13,7 +13,7 @@ Each Elevation has its own risk / reward breakdown. Here is a quick comparison b
 ![](../../.gitbook/assets/elevation-comparison.jpg)
 
 _The OASIS has been added only for comparison.  
-The OASIS not an elevation farm and does not feature yield gambling._
+The OASIS not an elevation farm and does not feature yield multipiers._
 
 \_\_[Elevations unlock over the first week after project launch, see launch timeline for further detail.](../../launch-timeline.md)
 
@@ -45,13 +45,13 @@ A new elevation unlocking is meant to be purely a positive for the userbase. To 
 
 ## Allocation Boost
 
-Higher elevations offer higher rewards, not just through the possible **Winnings Multipliers** from gambling, but through the higher **Allocation Boosts**. A higher elevation farm of token XYZ will _always_ have a higher SUMMIT reward emission than a lower elevation farm.
+Higher elevations offer higher rewards, not just through the possible **Winnings Multipliers** from Yield Multipier, but through the higher **Allocation Boosts**. A higher elevation farm of token XYZ will _always_ have a higher SUMMIT reward emission than a lower elevation farm.
 
 > `Emission is determined on a PER TOKEN/LP basis, thus all farms of a token across elevations will share a single emission allocation. That allocation is further split by the staked amount at each elevation, adjusted for the allocation boost as you rise in elevation.`
 
 100 tokens staked at **The SUMMIT** will earn the same share of the token's allocation as 150 tokens staked at **The OASIS**.
 
-## Gambling for a Good Cause
+## Risk for a Good Cause
 
 Higher elevations have longer round durations, meaning it takes longer on average to 'break ahead' of RNG fluctuations. Users are expected to remain in higher elevations for longer durations to accumulate their yield bets and earn large rewards.
 

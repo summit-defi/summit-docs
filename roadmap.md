@@ -40,7 +40,7 @@ Will begin after launches settle and resources free up
 * [ ] Create NFT marketplace page of summit.defi
 * [ ] Create NFT based profiles, integrate NFTs into tokenomics
 * [ ] NFT staking expeditions, stake NFTs and earn stablecoins
-* [ ] Begin creation of new yield gambling skill based games 
+* [ ] Begin creation of new yield multiplying skill based games 
 * [ ] Release skill based yield multiplying games
 * [ ] Apply to exchanges to list SUMMIT token
 

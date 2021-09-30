@@ -1,6 +1,6 @@
 # How to: Elevation Farm
 
-Yield gambling is a two step process:
+Yield mutiplying is a two step process:
 
 1. Select a Totem \([**covered here**](../totem/selecting-totem.md)\).
 2. Stake with an Elevation farm.
