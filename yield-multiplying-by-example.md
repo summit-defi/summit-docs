@@ -1,6 +1,9 @@
-# Yield Multiplying By Example
+---
+cover: .gitbook/assets/Yield Multiplying by Example Masthead.jpg
+coverY: 0
+---
 
-![](<.gitbook/assets/Yield Multiplying by Example Masthead.jpg>)
+# Yield Multiplying By Example
 
 {% hint style="success" %}
 The fabled battle takes place on the PLAINS. Let the Tortoise and Hare teach you about the cornerstone of Summit DeFi:
@@ -10,9 +13,9 @@ The fabled battle takes place on the PLAINS. Let the Tortoise and Hare teach you
 
 ## What is Yield Multiplying?
 
-When users stake in an Elevation Farm (The PLAINS, The MESA, and The SUMMIT), they generate yield (in SUMMIT token). The amount of SUMMIT generated is based on the emissions / apr of the farm, just like a traditional yield farm.
+When users stake in an Elevation Farm (The PLAINS, The MESA, and The SUMMIT), they generate yield (in SUMMIT token). The amount of SUMMIT generated is based on the emissions / APR of the farm, just like a traditional yield farm.
 
-Unlike a traditional yield farm, this SUMMIT is not immediately available for harvesting. Instead, over the duration of a round, it accumulates and is contributed to a Totem (think of like a Team). At the end of the round, a single totem is randomly picked to be the winner, and the user's who have selected that winning totem are granted a **Yield Multiplier** against the yield that they contributed during the round.
+Unlike a traditional yield farm, this SUMMIT is not immediately available for harvesting. Instead, over the duration of a round, it accumulates and is contributed to a Totem (think of this like a Team). At the end of the round, a single totem is randomly picked to be the winner, and the user's who have selected that winning totem are granted a **Yield Multiplier** against the yield that they contributed during the round.
 
 When the Totems compete, they only compete with the Yield Generated during a round. The amount you stake is always safe, and always yours. As the saying goes
 
@@ -24,7 +27,7 @@ The example below explains what **Yield Multiplying** will feel like in practice
 
 ### The Setup
 
-The PLAINS has two Totems: The Hare![:plains\_hare:](https://cdn.discordapp.com/emojis/889257298403405895.png?size=96), and The Tortoise![:plains\_tortoise:](https://cdn.discordapp.com/emojis/889257298197901342.png?size=96)
+The PLAINS has two Totems: The Tortoise![:plains\_tortoise:](https://cdn.discordapp.com/emojis/889257298197901342.png?size=96)and The Hare![:plains\_hare:](https://cdn.discordapp.com/emojis/889257298403405895.png?size=96)&#x20;
 
 The PLAINS has 2 hour rounds.
 
