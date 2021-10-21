@@ -22,14 +22,14 @@ Stronger-handed holders of SUMMIT can then earn those rewards in the next Expedi
 \
 **Expeditions transfer opportunity cost from the impatient to the patient.**
 
-## Staking in Expeditions
+## Pledging in the Expeditions
 
-> Expeditions have a 24 hour **pledge window** when you can deposit your SUMMIT tokens or SUMMIT-FTM LP.\
+> Expeditions have a 24 hour **pledging window** when you can deposit your SUMMIT tokens and/or SUMMIT-FTM LP.\
 > At the end of the 24 hour window, the Expedition **round closes.**\
 > ****Your pledged amount at the time of round close is your **participation amount.**\
 > **Win or Lose**, your pledged tokens are still yours.
 
-SUMMIT or SUMMIT-FTM LP does not need to be pledged in Expeditions for the entire duration of the round however; for you to be part of the expedition then your funds **must **be in there before the round closes. Your winnings are determined only by the amount pledged when the round ends. Each 'round' of an Expedition has a 24 hour staking window to add your funds.
+SUMMIT or SUMMIT-FTM LP does not need to be pledged in Expeditions for the entire duration of the round; however for you to be part of the Expedition then your funds **must **be in there at the point of round closing. Your winnings are determined only by the amount pledged when the round ends. Each 'round' of an Expedition has a 24 hour staking window to add your funds.
 
 Expeditions use this style of staking for many reasons, here are a few key examples:
 
@@ -42,7 +42,7 @@ Expeditions use this style of staking for many reasons, here are a few key examp
 [deities.md](deities.md)
 {% endcontent-ref %}
 
-## Winnings
+## Expedition Rewards
 
 The pot is split amongst the users represented by the winning Deity.
 
