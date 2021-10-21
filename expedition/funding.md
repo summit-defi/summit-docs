@@ -2,10 +2,10 @@
 
 ![](../.gitbook/assets/expedition-funding-masthead.jpg)
 
-Expeditions are funded out of the **Expedition Treasury**. You can think of this treasury as a 'back into the system' fund. **100%** of Tokens in this Treasury are put back into the ecosystem to benefit SUMMIT holders. This treasury grows in **2** ways:
+Expeditions are funded out of the **Expedition Treasury**. You can think of this treasury as a 'back into the system' fund. **100%** of Tokens in this Treasury are put back into the ecosystem to benefit SUMMIT holders. This treasury grows in **2 **ways:
 
-1. **50%** of Deposit Fees go to the Expedition Treasury
-2. **92%** of Passthrough Staking Rewards
+1. **50% **of Deposit Fees go to the Expedition Treasury
+2. **92% **of Passthrough Staking Rewards
 
 ## The Expedition Treasury
 
@@ -24,11 +24,10 @@ Non-SUMMIT farms may feature a deposit fee ranging from 0.0% to 2%. This deposit
 
 ## Passthrough Strategy Rewards
 
-Funds passed through to Vault-style and MasterChef-style contracts will automatically send 92% of rewards to the Expedition Fund address, and 8% \(mirroring block rewards\) to the Dev Fund.
+Funds passed through to Vault-style and MasterChef-style contracts will automatically send 92% of rewards to the Expedition Fund address, and 8% (mirroring block rewards) to the Dev Fund.
 
 ## Alternate uses of the Expedition Treasury
 
 SUMMIT is an inflationary token, and the Expedition Treasury can be used to perform deflationary **Buy & Burn** events.
 
-Buy & Burn is **not** the primary intention of the fund, and it will be publicly announced once a burn has happened.  
-
+Buy & Burn is **not** the primary intention of the fund, and it will be publicly announced once a burn has happened. &#x20;

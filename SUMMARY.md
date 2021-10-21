@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Summit DeFi Introduction](README.md)
+* [Yield Multiplying By Example](yield-multiplying-by-example.md)
 * [Launch Timeline](launch-timeline.md)
 * [Brief Overview](quick-start/README.md)
   * [SUMMIT Token](quick-start/summit-token.md)
@@ -11,7 +12,7 @@
 * [Summit Team](team.md)
 * [Roadmap](roadmap.md)
 
-## SUMMIT TOKEN & ECOSYSTEM <a id="summit-token"></a>
+## SUMMIT TOKEN & ECOSYSTEM <a href="summit-token" id="summit-token"></a>
 
 * [Tokenomics](summit-token/tokenomics.md)
 * [Passthrough Strategy](summit-token/passthrough.md)
@@ -20,10 +21,10 @@
 ## Farming
 
 * [Totems](farming/totem/README.md)
-  * [How to: Select Your Totem \(Todo - Screenshots\)](farming/totem/selecting-totem.md)
+  * [How to: Select Your Totem (Todo - Screenshots)](farming/totem/selecting-totem.md)
   * [Totems FAQ](farming/totem/faq.md)
 * [Oasis Farms](farming/oasis.md)
-* [Elevation Farms \(Yield Multiplier\)](farming/elevation/README.md)
+* [Elevation Farms (Yield Multiplier)](farming/elevation/README.md)
   * [How to: Elevation Farm](farming/elevation/how-to.md)
   * [Vesting and Harvesting](farming/elevation/vesting-and-harvesting.md)
 * [Elevating Funds](farming/elevate.md)
@@ -44,9 +45,8 @@
 
 * [Risks](faq/risks.md)
 
-## Developers <a id="code"></a>
+## Developers <a href="code" id="code"></a>
 
 * [Github](code/github.md)
 * [Smart Contracts](code/smart-contracts.md)
 * [Bug Bounty](code/bug-bounty.md)
-

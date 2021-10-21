@@ -3,14 +3,14 @@
 ![](../.gitbook/assets/the-oasis-masthead.jpg)
 
 {% hint style="success" %}
-**The OASIS is functionally equivalent to standard yield farming projects, stake tokens / LP, earn SUMMIT.** 
+**The OASIS is functionally equivalent to standard yield farming projects, stake tokens / LP, earn SUMMIT. **
 
 **How the OASIS fits into the overall Summit DeFi ecosystem, and your strategy, is for you to explore.**
 {% endhint %}
 
 The OASIS is the safest elevation to farm at, with guaranteed yield and only a single totem:
 
-![THE OTTER - Protector of the Oasis](../.gitbook/assets/ottertotem%20%282%29.png)
+![THE OTTER - Protector of the Oasis](<../.gitbook/assets/ottertotem (2).png>)
 
 The Otter oversees all funds at the OASIS, and doesn't need to compete against any other totem. He protects your yield and ensures that you get to harvest it.
 
@@ -22,8 +22,19 @@ By mixing your investment amounts between Elevations, you can ensure that your f
 
 ## How To: Farm at the OASIS
 
-1. **Select OASIS from the left nav:  &lt;todo: insert screenshot&gt;** 
-2. **Select the OASIS farm you wish to join:  &lt;todo: insert screenshot&gt;** 
-3. **Approve the Contract if necessary:  &lt;todo: insert screenshot&gt;** 
-4. **Deposit your Tokens / LP and begin earning:  &lt;todo: insert screenshot&gt;** 
-
+1. **Select OASIS from the left nav:**\
+   ****\
+   **\<todo: insert screenshot>**\
+   ****
+2. **Select the OASIS farm you wish to join:**\
+   ****\
+   **\<todo: insert screenshot>**\
+   ****
+3. **Approve the Contract if necessary:**\
+   ****\
+   **\<todo: insert screenshot>**\
+   ****
+4. **Deposit your Tokens / LP and begin earning:**\
+   ****\
+   **\<todo: insert screenshot>**\
+   ****

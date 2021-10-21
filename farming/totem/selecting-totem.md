@@ -1,4 +1,4 @@
-# How to: Select Your Totem \(Todo - Screenshots\)
+# How to: Select Your Totem (Todo - Screenshots)
 
 ## Initial Totem Selection
 
@@ -38,7 +38,6 @@ TODO:
 
 TODO:
 
-**4. Confirm your New Totem.** _**\(If you already have funds staked at this elevation, confirmation will require a transaction to switch funds to new Totem.\)**_
+**4. Confirm your New Totem. **_**(If you already have funds staked at this elevation, confirmation will require a transaction to switch funds to new Totem.)**_
 
 TODO:
-

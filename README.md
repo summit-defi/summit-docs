@@ -5,21 +5,21 @@
 {% hint style="success" %}
 #### Summit Defi brings a new flavor to the world of Yield Farming on Fantom Opera.
 
-_**Choose your Totem.  
-Risk your Yield.  
-Farm Big,** or not at all**.**_
+_**Choose your Totem.**_\
+_**Risk your Yield.**_\
+_**Farm Big, **or not at all**.**_
 {% endhint %}
 
 ## Introducing Yield Multiplier
 
-Why limit your farming yield to only what _**you**_ farm.
+Why limit your farming yield to only what _**you** _farm.
 
 You're sitting there, farming away with countless other users, and you don't even get to touch their rewards at all. Not even a little bit.
 
 Seems like a waste to us.
 
-We let you win your **neighbor's** yield.  
-We let you win your **block's** yield.  
+We let you win your **neighbor's** yield.\
+We let you win your **block's** yield.\
 Hell, we let you win your **entire** **town's** yield!
 
 Oh right, they can also win **your yield** as well.
@@ -36,7 +36,7 @@ In DeFi terms, only your yield is at risk, never your staked amount.
 
 Tailor your strategy between different elevations to match your risk tolerance. From guaranteed earnings to betting on the ponies, we've got you covered.
 
-### **Zero** Opportunity Cost
+### **Zero **Opportunity Cost
 
 Usually yield farming means your funds can't earn consistent and guaranteed rewards in other farms and vaults.
 
@@ -52,13 +52,13 @@ Expeditions eliminate opportunity cost, and return the passthrough rewards right
 
 ### Set it and Forget it
 
-It's not required to micromanage your funds every round \(you can if you'd like\). Your funds are automatically entered into the next round when a round ends. You can continue to win while you sleep, and your winnings will wait for you to come back.
+It's not required to micromanage your funds every round (you can if you'd like). Your funds are automatically entered into the next round when a round ends. You can continue to win while you sleep, and your winnings will wait for you to come back.
 
 ### Referrals
 
-Refer your friends \(no limit on amount\) and receive a 1% referral bonus of the **SUMMIT** those friends earn. Simply share your wallet address with them and you're on your way.
+Refer your friends (no limit on amount) and receive a 1% referral bonus of the **SUMMIT** those friends earn. Simply share your wallet address with them and you're on your way.
 
-Don't forget to add the address of the user that referred you, and receive an **EXTRA** 1% bonus of your _own_ **SUMMIT** earned.
+Don't forget to add the address of the user that referred you, and receive an **EXTRA **1% bonus of your _own _**SUMMIT **earned.
 
 ### Cross-Compounding
 
@@ -78,12 +78,11 @@ Winnings **vest** over the duration of the next round. When rounds end, hours wo
 
 A token / LP's earnings allocation is shared across all elevations it exists at. Funds at higher elevations will _always_ earn more than funds at lower elevation.
 
-You shouldn't be penalized for moving to a higher elevation, in fact, you should be rewarded for taking on additional risk. Shared token allocations allow 100% of users to move to a higher elevation if they so choose, without earning less rewards for it. 
+You shouldn't be penalized for moving to a higher elevation, in fact, you should be rewarded for taking on additional risk. Shared token allocations allow 100% of users to move to a higher elevation if they so choose, without earning less rewards for it.&#x20;
 
 ## Is Summit DeFi Safe?
 
 Summit DeFi has been audited by Obelisk, but if you do find a bug please get in contact - we recognize no code is perfect.
 
-**Sounds like fun?  
-Then get yield multiplying!!**
-
+**Sounds like fun?**\
+**Then get yield multiplying!!**

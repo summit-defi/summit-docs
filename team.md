@@ -1,6 +1,6 @@
 # Summit Team
 
-![](.gitbook/assets/summit-team-masthead%20%281%29.jpg)
+![](<.gitbook/assets/summit-team-masthead (1).jpg>)
 
 ## Summit Team
 
@@ -25,7 +25,5 @@ If you would like to reach out to us, our tags are:
   * discord - `Kuo#1337`
   * tg - `@SummitKuo`
 
-**We will never DM you first,** please avoid the scams and never respond to unsolicited DM's.  
-
-
+**We will never DM you first, **please avoid the scams and never respond to unsolicited DM's. &#x20;
 

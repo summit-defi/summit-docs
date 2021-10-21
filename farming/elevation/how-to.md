@@ -2,42 +2,38 @@
 
 Yield mutiplying is a two step process:
 
-1. Select a Totem \([**covered here**](../totem/selecting-totem.md)\).
+1. Select a Totem ([**covered here**](../totem/selecting-totem.md)).
 2. Stake with an Elevation farm.
 
 This guide will assume that you have already [selected a totem](../totem/selecting-totem.md), and are ready to stake in an **Elevation farm**.
 
 ## Staking in an Elevation Farm
 
-1. **Select an Elevation \(PLAINS / MESA / SUMMIT\) from the left nav:**
+1.  **Select an Elevation (PLAINS / MESA / SUMMIT) from the left nav:**
 
-   \*\*\*\*
+    ****
 
-   **&lt;todo: insert screenshot&gt;**
+    **\<todo: insert screenshot>**
 
-   \*\*\*\*
+    ****
+2.  **Click the Elevation Farm you wish to stake with:**
 
-2. **Click the Elevation Farm you wish to stake with:**
+    ****
 
-   \*\*\*\*
+    **\<todo: insert screenshot>**
 
-   **&lt;todo: insert screenshot&gt;**
+    ****
+3.  **Approve your funds for Staking **(this will not be required if you have already approved this token / LP in the oasis)**:**
 
-   \*\*\*\*
+    ****
 
-3. **Approve your funds for Staking** \(this will not be required if you have already approved this token / LP in the oasis\)**:**
+    **\<todo: insert screenshot>**
 
-   \*\*\*\*
+    ****
+4.  **Deposit Tokens / LP:**
 
-   **&lt;todo: insert screenshot&gt;**
+    ****
 
-   \*\*\*\*
+    **\<todo: insert screenshot>**
 
-4. **Deposit Tokens / LP:**
-
-   \*\*\*\*
-
-   **&lt;todo: insert screenshot&gt;**
-
-   \*\*\*\*
-
+    ****
