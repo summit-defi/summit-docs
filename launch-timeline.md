@@ -1,51 +1,54 @@
-# Launch Timeline
+# Summit DeFi Launch
 
-![](<.gitbook/assets/launch-timeline-masthead (1).jpg>)
+![](<.gitbook/assets/Initial Tokenomics Breakdown (2).png>)
 
-The Summit DeFi ecosystem launch will proceed as follows:
+## Launch Day - Sunday October 24th
 
-## Day 0
+* Our presale on **Presale.Money **will go live at 12 PM UTC
+* The presale will run for 3 hours, or until the **10,000 FTM hard cap** is reached.
+* As the presale ends, the SUMMIT-FTM LP will go live with our partner [SpookySwap](https://spookyswap.finance).
+* The Summit Ecosystem will be enabled at **2:30PM UTC **and SUMMIT farming emissions will begin.
+* **The OASIS **farms** **will immediately begin be earning SUMMIT rewards.
 
-* Summit DeFi will always launch on a Friday in the afternoon (GMT Timezone). The exact time will depend on the launch type, but will be known long before the actual launch takes place.
-* SUMMIT token will become available either through a fair launch or a presale.
-* The Summit Defi ecosystem will be enabled and farming will begin.
-* **OASIS farms** will be available immediately.
+## Launch Day - Top of the Hour
 
-## Day 0 - Top of the Hour
+Following Launch, at the next top of the hour:
 
-Following Launch, at the next top of the hour (ex: 3:37pm GMT launch --> **4:00pm GMT next top of hour**):
+> 2:30pm UTC launch --> **3:00pm UTC is the next top of hour**
 
-* **PLAINS farms **will become available for farming with 2 totems and 2 hour rounds.
-* All remaining feature unlocks will occur at this same time during future days.
-* All farms that exist at launch in the OASIS will be available in the PLAINS.
+* **The PLAINS **will unlock and the first round of **Yield Multiplying** will start.&#x20;
+* The PLAINS features two totems: The Tortoise![:plains\_tortoise:](https://cdn.discordapp.com/emojis/889257298197901342.png?size=96)and The Hare![:plains\_hare:](https://cdn.discordapp.com/emojis/889257298403405895.png?size=96)&#x20;
+* Rounds at the PLAINS last two hours.
+* Other Elevations will unlock at the **same time** on their respective unlock day.
 
-## Day 3
+## Day 3 - October 27th
 
-* **MESA farms** will become available with 5 totems and 4 hour rounds.
-* PLAINS farms with high TVL will be added to the MESA to reward stakers in said farms.
+* **The MESA will unlock, featuring 5 totems, and 4 hour rounds.**
 
-## Day 5
+## Day 5 - October 29th
 
-* **SUMMIT farms** will become available with 10 totems and 8 hour rounds.
-* MESA farms with high TVL will be added to the SUMMIT to reward stakers in those farms.
+* **The SUMMIT will unlock, featuring 10 totems, and 8 hour rounds.**
 
-## Day 6
+## Day 12 - Thursday Nov 4th
 
-* The **Friday staking window** of the first EXPEDITION round will open.
+* The first** pledging window** of the EXPEDITION will open.
 * Funds can be staked at any point over the 24 hour Expedition staking window, however only the staked amount at the end of the staking window is used to determine user's payouts.
 
-## Day 7
+## Day 13 - Friday Nov 5th
 
-* **The first EXPEDITION round will close.**
-* A winning DEITY is selected.
-* Expedition winnings become available for withdrawal.
-* The staking window of the Saturday EXPEDITION round will open (this will continue on Day 8 with the Sunday round staking window opening)
+* **The first EXPEDITION pledging window will close.**
+* **The first COSMIC DEITY winner is drawn.**
+* Expedition rewards become immediately available for withdrawal.
+* The next pledging window of the EXPEDITION will open.
 
-## Long Term
+Expedition pledging windows will close and a DEITY winner drawn on Friday, Saturday, and Sunday.
 
-* **Every Weekend, **an EXPEDITION will be created from deposit fees and passthrough strategy rewards. The Expedition will have 3 rounds, the first unlocking on Thursday, and the final closing on Sunday.
-* **Once Monthly**, a super EXPEDITION will be created with a much larger pot and potential winnings.
-* **Deposit Fees** will drop periodically down to their minimum amount according to the passthrough strategy.&#x20;
-* **Existing Farms** with high TVL will periodically be promoted to higher elevations to reward stakers in said farms.
-* **New Farms **with high passthrough APY will be added to boost the expedition reward amount.
+## The Long Term
+
+This is not our roadmap, simply an explanation of what the Expeditions will look like continuing into the future.
+
+* **Every Weekend, **an EXPEDITION will be created from deposit fees and passthrough strategy rewards. The Expedition will have 3 rounds, the first opening on Thursday, and the final closing on Sunday.
+* **Once Monthly**, a boosted EXPEDITION will be created with a much larger pot and potential winnings.
+
+
 

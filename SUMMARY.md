@@ -2,7 +2,7 @@
 
 * [Summit DeFi Introduction](README.md)
 * [Yield Multiplying By Example](yield-multiplying-by-example.md)
-* [Launch Timeline](launch-timeline.md)
+* [Summit DeFi Launch](launch-timeline.md)
 * [Brief Overview](quick-start/README.md)
   * [SUMMIT Token](quick-start/summit-token.md)
   * [Oasis Overview](quick-start/oasis.md)
