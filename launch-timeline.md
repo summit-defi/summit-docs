@@ -25,7 +25,7 @@ Following Launch, at the next top of the hour:
 
 * **The MESA will unlock, featuring 5 totems, and 4 hour rounds.**
 
-## Day 5 - October 29th
+## Day 5 - October 30th
 
 * **The SUMMIT will unlock, featuring 10 totems, and 8 hour rounds.**
 
