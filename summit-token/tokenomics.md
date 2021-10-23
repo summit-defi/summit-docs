@@ -13,6 +13,8 @@ We have designed the Summit ecosystem to give as much value as possible to the S
 _**The emission rate of SUMMIT is 0.25 / second.**_\
 _****(\~650k tokens a month.  We view this as a reasonable amount of inflation for our yield farm)_
 
+_**There is no max supply of SUMMIT.**_
+
 **92%** of the block rewards are distributed as farming rewards to pools
 
 > Of that **92%**, **2% **is reserved for referral rewards. Every **7 days** any unclaimed referral rewards will be burned. Be sure to claim any available referral rewards before this burn, or they will be lost forever
