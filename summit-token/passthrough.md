@@ -3,10 +3,10 @@
 ![](<../.gitbook/assets/Passthrough Strategy Masthead.jpg>)
 
 {% hint style="success" %}
-#### Passthrough Strategies utilize the full TVL of Summit DeFi to earn rewards, which in turn are given back to SUMMIT holders through weekly Expeditions.
+**Passthrough Strategies utilize the full TVL of Summit DeFi to earn rewards, which in turn are given back to SUMMIT holders through weekly Expeditions.**
 {% endhint %}
 
-When you stake your LP with Summit DeFi, we immediately _**pass it through **_to known players in the DeFi world. Many trusted farms and vaults exist alongside Summit, and by utilizing assets staked with us, we can earn rewards that boost the price and value of the SUMMIT token itself.
+When you stake your LP with Summit DeFi, we immediately **pass it through **to known players in the DeFi world. Many trusted farms and vaults exist alongside Summit, and by utilizing assets staked with us, we can earn rewards that boost the price and value of the SUMMIT token itself.
 
 **The passthrough strategy system is a key piece of the Summit DeFi machinery, and contributes to the "Weak-Hands Pseudo-Tax", as discussed in detail in our Tokenomics page:**
 
@@ -16,7 +16,7 @@ When you stake your LP with Summit DeFi, we immediately _**pass it through **_to
 
 ### Passthrough Rewards
 
-Each of the passthrough strategies earn a reward token, and our inbuilt strategies to handle it extracts any earned rewards whenever a deposit or withdrawal takes place.&#x20;
+Each of the passthrough strategies earn a reward token, and our inbuilt strategies to handle it extracts any earned rewards whenever a deposit or withdrawal takes place.
 
 **92% of these rewards** are sent to the Expedition Treasury, seeding Expeditions. These tokens will be of all types, and they will be converted into stablecoins daily.
 

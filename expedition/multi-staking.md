@@ -6,8 +6,8 @@
 **Multi-Staking allows users to pledge \_either- , both- , or any combination of- \_SUMMIT and SUMMIT-FTM LP in the same Expedition:**
 
 **Total SUMMIT pledged (amount used to calculate winnings) =**\
-\*\* pledged SUMMIT +\
-**\*\* SUMMIT \_inside \_pledged**_\*\*_**SUMMIT-FTM LP**
+&#x20;**pledged SUMMIT** +\
+** SUMMIT \_inside \_pledged**_\*_**SUMMIT-FTM LP**
 
 _Both SUMMIT and SUMMIT-FTM LP can be elevated into and out of Expeditions from other farms._
 {% endhint %}
@@ -48,7 +48,7 @@ Total SUMMIT pledged in Expedition
   35 SUMMIT token
 ```
 
-If the exchange rate were **1 SUMMIT-FTM LP ==> 2 SUMMIT** + XX FTM, all of the following (if they all win) would have the exact same \*\*total SUMMIT, \*\*and yield the exact same winnings:
+If the exchange rate were **1 SUMMIT-FTM LP ==> 2 SUMMIT** + XX FTM, all of the following (if they all win) would have the exact same **total SUMMIT**, and yield the exact same winnings:
 
 ```
 User 1                    User 2                    User 3
@@ -60,7 +60,7 @@ User 1                    User 2                    User 3
 
 > **At launch, the Incentive Multiplier is set to 1X, meaning no extra boost to equivalent SUMMIT, but can be increased to anywhere between 1X - 2X to incentivize users to not break their LP. We will monitor this and see if 1X is sufficient.**
 
-So \_technically\*\* \*\*\_what we just told you is incomplete. We have added an additional parameter to incentivize users to **NOT** break their existing LP to enter the Expedition.
+So \_technically what we just told you is incomplete. We have added an additional parameter to incentivize users to **NOT** break their existing LP to enter the Expedition.
 
 To maximize their Expedition winnings, zealous users could break their SUMMIT-FTM LP, then sell their FTM for more SUMMIT to pledge. This would effectively utilize both halves of their LP and double their pledged SUMMIT compared to the original LP's equivalent SUMMIT.
 
@@ -96,4 +96,4 @@ Total SUMMIT pledged in Expedition
 
 _**The Incentive Multiplier starts at 1X and has a 72 hour update timelock.**_
 
-## \*\* \*\*
+##
