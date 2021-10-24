@@ -1,6 +1,6 @@
 # Brief Overview
 
-![](../.gitbook/assets/brief-overview-masthead.jpg)
+![](<../.gitbook/assets/Brief Overview Masthead.jpg>)
 
 ## Welcome to Summit DeFi!
 

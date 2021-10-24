@@ -1,6 +1,6 @@
 # Expedition FAQ & Troubleshooting
 
-![](../.gitbook/assets/expedition-faq-masthead.jpg)
+![](<../.gitbook/assets/Expedition FAQ Masthead.jpg>)
 
 ## How is the Expedition funded?
 
@@ -8,7 +8,7 @@
 
 ## Will the Expedition ever run out of funds?
 
-The simple answer is NO. The CartographerExpedition contract \(the one that holds and runs Expeditions\) doesn't allow us to create an expedition without already having funds to cover the entire run of the expedition. Before the expedition is created, it checks to make sure that it can pay out the winnings every round.
+The simple answer is NO. The CartographerExpedition contract (the one that holds and runs Expeditions) doesn't allow us to create an expedition without already having funds to cover the entire run of the expedition. Before the expedition is created, it checks to make sure that it can pay out the winnings every round.
 
 Expeditions are run on a set schedule to allow time for funds to accumulate. As long as users are farming with Summit DeFi, the expedition will be running strong.
 
@@ -38,7 +38,7 @@ Having said that, we would be open to running small Expeditions for projects try
 
 ## Does the method to choose the 'chance of success' affect the outcome?
 
-The simple algorithm to choose the next rounds chance of success promotes a sense of fairness. The chance of success will _tend_ \(not guaranteed\) to move _away_ from the previous winner.
+The simple algorithm to choose the next rounds chance of success promotes a sense of fairness. The chance of success will _tend_ (not guaranteed) to move _away_ from the previous winner.
 
 Though this may seem to make it advantageous to switch Deity after every round, the actual winner of each round is **always** random.
 
@@ -47,4 +47,3 @@ Though this may seem to make it advantageous to switch Deity after every round, 
 Perhaps. Expeditions give added value to SUMMIT holders, the price of SUMMIT _should_ increase as the value of SUMMIT increases.
 
 Holders trying to exit may however wait for this bump to trade out, hurting those attempting to buy in _only_ to enter the Expedition.
-

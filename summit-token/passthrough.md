@@ -1,6 +1,6 @@
 # Passthrough Strategy
 
-![](../.gitbook/assets/passthrough-strategy-masthead.jpg)
+![](<../.gitbook/assets/Passthrough Strategy Masthead.jpg>)
 
 {% hint style="success" %}
 #### Passthrough Strategies utilize the full TVL of Summit DeFi to earn rewards, which in turn are given back to SUMMIT holders through weekly Expeditions.

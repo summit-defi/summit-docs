@@ -1,6 +1,6 @@
 # Social Accounts
 
-![](<.gitbook/assets/social-accounts-masthead (1).jpg>)
+![](<.gitbook/assets/Social Accounts Masthead (1).jpg>)
 
 Discord - [https://discord.gg/summitdefi](https://discord.gg/summitdefi)
 

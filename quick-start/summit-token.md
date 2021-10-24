@@ -1,6 +1,6 @@
 # SUMMIT Token
 
-![](../.gitbook/assets/summit-token-masthead.jpg)
+![](<../.gitbook/assets/SUMMIT Token Masthead.jpg>)
 
 {% hint style="info" %}
 **SUMMIT is the currency of the Summit DeFi ecosystem. It is earned as a reward in Oasis and Elevation farms, and it is used to take part in multiple Expeditions held weekly for the chance to win big!**

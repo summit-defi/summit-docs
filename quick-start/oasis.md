@@ -1,6 +1,6 @@
 # Oasis Overview
 
-![](../.gitbook/assets/oasis-overview-masthead.jpg)
+![](<../.gitbook/assets/Oasis Overview Masthead.jpg>)
 
 **THE OASIS** is ground zero of Summit Defi. Farms at the Oasis function like traditional farms:
 

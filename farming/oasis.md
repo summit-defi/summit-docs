@@ -1,6 +1,6 @@
 # Oasis Farms
 
-![](../.gitbook/assets/the-oasis-masthead.jpg)
+![](<../.gitbook/assets/The OASIS Masthead.jpg>)
 
 {% hint style="success" %}
 **The OASIS is functionally equivalent to standard yield farming projects, stake tokens / LP, earn SUMMIT. **
@@ -10,7 +10,7 @@
 
 The OASIS is the safest elevation to farm at, with guaranteed yield and only a single totem:
 
-![THE OTTER - Protector of the Oasis](<../.gitbook/assets/ottertotem (2).png>)
+![THE OTTER - Protector of the Oasis](<../.gitbook/assets/OtterTotem (2).png>)
 
 The Otter oversees all funds at the OASIS, and doesn't need to compete against any other totem. He protects your yield and ensures that you get to harvest it.
 

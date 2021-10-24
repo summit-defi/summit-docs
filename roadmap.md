@@ -1,6 +1,6 @@
 # Roadmap
 
-![](<.gitbook/assets/roadmap-masthead (1).jpg>)
+![](<.gitbook/assets/Roadmap Masthead (1).jpg>)
 
 Less of a true roadmap and more of a tour of the future of Summit DeFi. Dates stated are estimates, however we will clearly communicate if there is a change.\
 \

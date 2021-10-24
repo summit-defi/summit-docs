@@ -1,6 +1,6 @@
 # Elevation Farms (Yield Multiplier)
 
-![](../../.gitbook/assets/elevation-farming-masthead.jpg)
+![](<../../.gitbook/assets/Elevation Farming Masthead.jpg>)
 
 **Elevation farming** is the cornerstone of Summit. Elevation Farms are built around Yield Multiplier, a new way of interacting with your farmed Yield, and potentially multiplying it massively.
 
@@ -10,7 +10,7 @@ Elevation farms are built to bring excitement, tension, and community (through t
 
 Each Elevation has its own risk / reward breakdown. Here is a quick comparison between the elevations you can farm at:
 
-![](../../.gitbook/assets/elevation-comparison.jpg)
+![](<../../.gitbook/assets/Elevation Comparison.jpg>)
 
 _The OASIS has been added only for comparison._\
 _The OASIS not an elevation farm and does not feature yield multipiers._

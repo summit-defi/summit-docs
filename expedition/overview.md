@@ -1,6 +1,6 @@
 # The Expedition
 
-![](<../.gitbook/assets/expeditions-overview-masthead (1).jpg>)
+![](<../.gitbook/assets/Expeditions Overview Masthead (1).jpg>)
 
 {% hint style="info" %}
 **Expeditions test your risk tolerance in a 3 round gauntlet every weekend (3 x 24 hour rounds Friday through Sunday), rewarding holders of SUMMIT (or SUMMIT-FTM LP) with large amounts of stablecoins and other high value tokens.**

@@ -1,6 +1,6 @@
 # Random Number Generation
 
-![](../../.gitbook/assets/rng-masthead.jpg)
+![](<../../.gitbook/assets/RNG Masthead.jpg>)
 
 {% hint style="info" %}
 #### This is more of a technical documentation, and isn't a _must read** **_**to understand the Summit ecosystem.**

@@ -1,6 +1,6 @@
 # Potential for Abuse
 
-![](../../.gitbook/assets/rng-potential-for-abuse-masthead.jpg)
+![](<../../.gitbook/assets/RNG Potential For Abuse Masthead (1).jpg>)
 
 {% hint style="info" %}
 _**In the interest of transparency, we have written this article so our users are as informed as possible.**_

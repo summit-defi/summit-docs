@@ -1,6 +1,6 @@
 # Totems and Elevations
 
-![](../.gitbook/assets/totems-and-elevations-overview-masthead.jpg)
+![](<../.gitbook/assets/Totems and Elevations Overview Masthead.jpg>)
 
 ## TOTEMS - What are these adorable creatures and why should I care?
 

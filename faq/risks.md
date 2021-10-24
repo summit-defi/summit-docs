@@ -1,6 +1,6 @@
 # Risks
 
-![](../.gitbook/assets/risks-faq-masthead.jpg)
+![](<../.gitbook/assets/RISKS FAQ masthead.jpg>)
 
 ## Can I lose my assets? <a href="docs-internal-guid-a9913b50-7fff-cc10-39ab-3596e6286cd0" id="docs-internal-guid-a9913b50-7fff-cc10-39ab-3596e6286cd0"></a>
 

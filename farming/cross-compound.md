@@ -1,6 +1,6 @@
 # Cross-Compound
 
-![](../.gitbook/assets/cross-compounding-masthead.jpg)
+![](<../.gitbook/assets/Cross Compounding Masthead.jpg>)
 
 {% hint style="success" %}
 **"Cross-Compounding"** harvests the available SUMMIT rewards from any Summit DeFi Token / LP farm, and deposits them directly into the respective **SUMMIT** token farm at that same elevation.
@@ -26,4 +26,3 @@ Cross-Compounding is only designed to work within a single elevation. To move wi
 ## Can I Cross-Compound a SUMMIT pool?
 
 Of course, I suppose you would call it regular compounding, but it'll work regardless.
-

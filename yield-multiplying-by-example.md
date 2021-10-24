@@ -60,7 +60,7 @@ _Users 3/4/5_: The ![:plains\_tortoise:](https://cdn.discordapp.com/emojis/88925
 
 ## **Elevations Comparison**
 
-![](.gitbook/assets/elevation-comparison.jpg)
+![](<.gitbook/assets/Elevation Comparison.jpg>)
 
 **For more information on Yield Multiplying and its intricacies, take a look at the full explanation below:**
 

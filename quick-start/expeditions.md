@@ -1,6 +1,6 @@
 # Expeditions
 
-![](../.gitbook/assets/expeditions-overview-masthead.jpg)
+![](<../.gitbook/assets/Expeditions Overview Masthead.jpg>)
 
 {% hint style="success" %}
 **Expeditions are the pinnacle of Summit DeFi, and act purely as a reward for SUMMIT holders.**

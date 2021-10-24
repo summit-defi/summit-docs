@@ -1,6 +1,6 @@
 # Summit DeFi Introduction
 
-![](.gitbook/assets/banner9.png)
+![](.gitbook/assets/Banner9.png)
 
 {% hint style="success" %}
 #### Summit Defi brings a new flavor to the world of Yield Farming on Fantom Opera.

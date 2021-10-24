@@ -1,6 +1,6 @@
 # Smart Contracts
 
-![](../.gitbook/assets/smart-contracts-masthead.jpg)
+![](<../.gitbook/assets/Smart Contracts Masthead.jpg>)
 
 Summit DeFi Smart Contract addresses on FTM.
 

@@ -1,6 +1,6 @@
 # Referrals
 
-![](<../.gitbook/assets/referrals-masthead (1).jpg>)
+![](<../.gitbook/assets/Referrals Masthead (1).jpg>)
 
 {% hint style="success" %}
 #### Earn BONUS SUMMIT for each friend you refer to Summit DeFi.
