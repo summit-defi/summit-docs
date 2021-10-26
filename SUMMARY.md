@@ -50,3 +50,4 @@
 * [Github](code/github.md)
 * [Smart Contracts](code/smart-contracts.md)
 * [Bug Bounty](code/bug-bounty.md)
+* [Audit Completed](code/audit-completed.md)
