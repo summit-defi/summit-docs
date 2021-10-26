@@ -19,9 +19,11 @@ _**There is no max supply of SUMMIT.**_
 
 > Of that **92%**, **2% **is reserved for referral rewards. Every **7 days** any unclaimed referral rewards will be burned. Be sure to claim any available referral rewards before this burn, or they will be lost forever
 
-**8%** of the block rewards are sent to the **Treasury**
+**8%** of the block rewards are sent to the **Treasury. **
 
 Block rewards are subject to change, and will fall after a suitable amount of time to prevent runaway inflation.
+
+Please note that any tokens that are distributed to team members are in reward for their work.** **Team members are free to sell tokens as they see fit, but have pledged to do so in a way that is NOT harmful to the project. Nobody works for free :)
 
 ## **The Weak-Hands Pseudo-Tax**
 
