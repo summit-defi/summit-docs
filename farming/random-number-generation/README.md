@@ -3,7 +3,7 @@
 ![](<../../.gitbook/assets/RNG Masthead.jpg>)
 
 {% hint style="info" %}
-#### This is more of a technical documentation, and isn't a _must read** **_**to understand the Summit ecosystem.**
+**This is more of a technical documentation, and isn't a **_**must read\*\* \*\***_**to understand the Summit ecosystem.**
 {% endhint %}
 
 ## **Randomness Flow**
@@ -23,8 +23,6 @@ Random number generation is used to select the winning totem, and must be ensure
 7. Webserver waits for the full round to end, then calls `rollover` of `Cartographer.sol` for any elevations whose rounds are ending
 8. Webserver waits for that transaction to succeed, then calls `rolloverPools` of `Cartographer.sol` for those same elevations
 
-
-
 **The entirety of this flow occurs during the 60 second lockout at the end of each round, preventing users from changing anything about their risked yield until after the round is finalized.**
 
 ## How the Flow guarantees Randomness
@@ -34,7 +32,7 @@ The key aspect of the Randomness flow above is that
 1. The Trusted Seeder webserver is blind to the future block hash when it generates the initial randomness seed (through matching of sealed and hashed unsealed seeds before and after future block mined)
 2. The miner is blind to the unencrypted randomness seed when it generates the future block hash
 
-With both parties blind to the actions of the other, neither can alone manipulate the final result.  This is a known valid randomness pattern, adapted to the summit defi ecosystem.
+With both parties blind to the actions of the other, neither can alone manipulate the final result. This is a known valid randomness pattern, adapted to the summit defi ecosystem.
 
 ## Webservice
 

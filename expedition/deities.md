@@ -3,7 +3,7 @@
 ![](<../.gitbook/assets/DEITIES Masthead (1).jpg>)
 
 {% hint style="success" %}
-#### The fate of each round of an Expedition is decided by two _warring Deities_, each fighting to earn or steal the pot.
+**The fate of each round of an Expedition is decided by two **_**warring Deities**_**, each fighting to earn or steal the pot.**
 {% endhint %}
 
 ## The Cosmic Deities
@@ -65,7 +65,7 @@ The **deity strengths** for a round are tied to the result of the previous round
 
 > Round A results in a random number of 90 (Bear win)
 >
-> &#x20;90\*.4 = 36 + 50 => Next round change of Cosmic Bull winning is 86%
+> 90\*.4 = 36 + 50 => Next round change of Cosmic Bull winning is 86%
 
 > Round X results in a random number of 0 (Bull win)
 >
@@ -73,4 +73,4 @@ The **deity strengths** for a round are tied to the result of the previous round
 
 In short, there is a self balance of Deity Strength, but the random number is always **completely random.**
 
-Tying the chance of success to the previous rounds random number increases the perceived fairness of the Expedition.  Although given the random chance to win in any case it's always fair. &#x20;
+Tying the chance of success to the previous rounds random number increases the perceived fairness of the Expedition. Although given the random chance to win in any case it's always fair.

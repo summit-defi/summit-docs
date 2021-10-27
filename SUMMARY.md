@@ -44,6 +44,8 @@
 ## FAQ
 
 * [Risks](faq/risks.md)
+* [Withdraw Through Contract](faq/withdraw-through-contract.md)
+* [Pool IDs](faq/pool-ids.md)
 
 ## Developers <a href="code" id="code"></a>
 
