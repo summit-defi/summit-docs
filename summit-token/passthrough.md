@@ -6,7 +6,7 @@
 **Passthrough Strategies utilize the full TVL of Summit DeFi to earn rewards, which in turn are given back to SUMMIT holders through weekly Expeditions.**
 {% endhint %}
 
-When you stake your LP with Summit DeFi, we immediately **pass it through **to known players in the DeFi world. Many trusted farms and vaults exist alongside Summit, and by utilizing assets staked with us, we can earn rewards that boost the price and value of the SUMMIT token itself.
+When you stake your non-native LP or Single Assets with Summit DeFi, we immediately **pass it through **to a well known player in the DeFi world, Beefy.Finance. Many trusted farms and vaults exist alongside Summit, and by utilizing assets staked with us, we can earn rewards that boost the price and value of the SUMMIT token itself.
 
 **The passthrough strategy system is a key piece of the Summit DeFi machinery, and contributes to the "Weak-Hands Pseudo-Tax", as discussed in detail in our Tokenomics page:**
 
