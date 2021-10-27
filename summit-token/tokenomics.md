@@ -11,9 +11,9 @@ We have designed the Summit ecosystem to give as much value as possible to the S
 ## Emissions and Fees
 
 _**The emission rate of SUMMIT is 0.25 / second.**_\
-_\*\*\*\*(\~650k tokens a month. We view this as a reasonable amount of inflation for our yield farm)_
+_\*\*\*\*(\~650k tokens a month. We view this as a reasonable amount of inflation for our yield farm).  However, it will not always be 0.25, we will consider reducing it further into the token's life._
 
-_**There is no max supply of SUMMIT.**_
+_**There is an 8 million max supply of SUMMIT.**_
 
 **92%** of the block rewards are distributed as farming rewards to pools
 
