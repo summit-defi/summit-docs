@@ -3,18 +3,18 @@
 ![](<../.gitbook/assets/Expeditions Overview Masthead (1).jpg>)
 
 {% hint style="info" %}
-**Expeditions test your risk tolerance in a 3 round gauntlet every weekend (3 x 24 hour rounds Friday through Sunday), rewarding holders of SUMMIT (or SUMMIT-FTM LP) with large amounts of stablecoins and other high value tokens.**
+**Expeditions test your risk tolerance in a daily gauntlet (every 24 hours), rewarding holders of SUMMIT (and SUMMIT-FTM LP) with large amounts of stablecoins and other high value tokens.**
 
 _Choose your **Cosmic Deity**._\
-_Pledge your **SUMMIT **stack._\
+_Stake your **SUMMIT **stack._\
 _Let the **Gods** decide your fate._
 {% endhint %}
 
 ## But what _IS_ an Expedition?
 
-Put simply, Expeditions add intrinsic value to the SUMMIT token. Over the course of a week, our entire TVL goes to work, earning funds to build pots that are won by holders of SUMMIT.\
+Put simply, Expeditions add intrinsic value to the SUMMIT token. Every day our entire TVL goes to work, earning funds to build up the Expedition Treasury which is then used to create daily pots that are won by holders of SUMMIT.\
 \
-**At the end of the week, an Expedition distributes these pots back to SUMMIT holders, with a touch of risk thrown in because we are still Summit DeFi.**
+**Every day** **an Expedition distributes rewards built up within the Expedition Treasury back to SUMMIT holders, with a touch of risk thrown in because we are still Summit DeFi after all.**
 
 For Example:\
 Light hearted users may withdraw and sell their SUMMIT, but their staked amount had already earned passthrough rewards which seed the Expedition pot.\
@@ -22,23 +22,29 @@ Stronger-handed holders of SUMMIT and SUMMIT-LP can then earn those rewards in t
 \
 **Expeditions transfer opportunity cost from the impatient to the patient.**
 
-## Pledging in the Expeditions
+We are in the process of building a brand-new system to further improve the utility of SUMMIT, improve the Expeditions and how it potentially interacts with the Summit DeFi protocol as a whole. Fi
 
-> Expeditions have a 24 hour **pledging window** when you can deposit your SUMMIT tokens and/or SUMMIT-FTM LP.\
-> At the end of the 24 hour window, the Expedition **round closes.**\
-> \*\*\*\*Your pledged amount at the time of round close is your **participation amount.**\
-> **Win or Lose**, your pledged tokens are still yours.
+## Joining an Expedition
 
-SUMMIT or SUMMIT-FTM LP does not need to be pledged in Expeditions for the entire duration of the round; however for you to be part of the Expedition then your funds _**must **_be in there at the point of round closing. Your winnings are determined only by the amount pledged when the round ends. Each 'round' of an Expedition has a 24 hour staking window to add your funds.
+> Expeditions have a 24 hour **deposit window** which means you are able to deposit your SUMMIT and SUMMIT-LP any time during this window.
+>
+> At the end of the 24 hour window, the Expedition **round closes **and a random deity is declared the winner**.**
+>
+> **Win or Lose**, your deposited tokens are still yours.
+>
+> The Expedition rewards are split amongst the users who backed the winning deity.\
+>
 
-**Your pledge for the expedition is based on the combined dollar value of your SUMMIT / SUMMIT-LP. **
+SUMMIT or SUMMIT-FTM LP does not need to be deposited in Expeditions for the entire duration of the round; however for you to be part of the Expedition then your funds _**must **_be in there at the point of round closing. Your winnings are determined only by the amount deposited when the round ends. Each 'round' of an Expedition has a 24 hour depositing window to add your funds.
+
+**Your deposit for the expedition is based on the combined dollar value of your SUMMIT / SUMMIT-LP. **
 
 Expeditions use this style of staking for many reasons, here are a few key examples:
 
-1. You can pledge your funds in at any point before the round closes (so you can sleep, go afk, etc) and trust that you wont miss out on the action.
-2. Min/maxing users can stake SUMMIT/LP mere minutes before the round closes, win or lose, and get back to farming immediately after the round closes, minimizing down time.
+1. You can deposit your funds in at any point before the round closes (so you can sleep, go afk, etc) and trust that you wont miss out on the action.
+2. Min/maxing users can deposit SUMMIT/LP mere minutes before the round closes, win or lose, and get back to farming immediately after the round closes, minimizing down time.
 
-**To pledge in an Expedition you must choose a Deity (think god-totem), take a look here for more information on Deities:**
+**To deposit in an Expedition you must choose a Deity (think god-totem), take a look here for more information on Deities:**
 
 {% content-ref url="deities.md" %}
 [deities.md](deities.md)
@@ -48,6 +54,6 @@ Expeditions use this style of staking for many reasons, here are a few key examp
 
 The pot is split amongst the users represented by the winning Deity.
 
-A user with 0.5% of the SUMMIT pledged with their Deity is awarded 0.5% of the total pot for the round.
+A user with 0.5% of the SUMMIT deposited with their Deity is awarded 0.5% of the total pot for the round.
 
 Winnings are available for withdrawal **IMMEDIATELY**, and **DO NOT** need to vest as in Elevation Farms.

@@ -6,7 +6,7 @@
 
 Totems are your champions of the Elevation Farms, they are working hard to make sure you win big and boost your SUMMIT yields. They battle 24/7, for your yields, so show them some support!
 
-You will have a unique totem for each elevation you stake in. All farms at an elevation will share your Totem, so choose wisely! Although if you do feel like your totem is no longer for you, then you're able to kick it to the curb and pick yourself a new one. No hard feelings. Apart from the one you kicked to the curb.&#x20;
+You will have a unique totem for each elevation you stake in. All farms at an elevation will share your Totem, so choose wisely! Although if you do feel like your totem is no longer for you, then you're able to kick it to the curb and pick yourself a new one. No hard feelings. Apart from the one you kicked to the curb.
 
 {% content-ref url="../farming/totem/" %}
 [totem](../farming/totem/)
@@ -18,8 +18,9 @@ Elevation Farms are round based farms where you risk your accrued SUMMIT yields.
 
 Here is breakdown of key details for each of the elevations (including OASIS for comparison):
 
-| Elevation      | <p>Number of</p><p>Totems</p> | <p>Round</p><p>Duration</p> | <p>Chance of</p><p>Win</p> | <p>Multiplier on Win</p><p>(est)</p> | <p>Allocation</p><p>Boost</p> |
+|                |                               |                             |                            |                                      |                               |
 | -------------- | ----------------------------- | --------------------------- | -------------------------- | ------------------------------------ | ----------------------------- |
+| Elevation      | <p>Number of</p><p>Totems</p> | <p>Round</p><p>Duration</p> | <p>Chance of</p><p>Win</p> | <p>Multiplier on Win</p><p>(est)</p> | <p>Allocation</p><p>Boost</p> |
 | **The OASIS**  | n/a                           | n/a                         | 100%                       | n/a                                  | 100%                          |
 | **The PLAINS** | 2                             | 2 hours                     | 50%                        | **2X**                               | 110%                          |
 | **The MESA**   | 5                             | 4 hours                     | 20%                        | **5X**                               | 125%                          |
@@ -31,13 +32,13 @@ Here is breakdown of key details for each of the elevations (including OASIS for
 2. Stake tokens / LP in an elevation farm.
 3. Accumulate yield to Multiply over duration of round.
 4. Wait for round to rollover to see if you win or lose.
-5. If  you **win: **wait for your SUMMIT winnings to vest, and harvest at will.
+5. If you \*\*win: \*\*wait for your SUMMIT winnings to vest, and harvest at will.
 
-To see screenshots of the elevation farming process, see the in depth pages on [**how to select a totem**](../farming/totem/selecting-totem.md) and** **[**how to yield multiply**](../farming/elevation/how-to.md).
+To see screenshots of the elevation farming process, see the in depth pages on [**how to select a totem**](../farming/totem/selecting-totem.md) and\*\* \*\*[**how to yield multiply**](../farming/elevation/how-to.md).
 
 ### Mathematically Guaranteed
 
-Elevation farms are **guaranteed** to earn more SUMMIT rewards than corresponding OASIS farms, due to the **allocation boost **they get by default. Higher elevations are given a much higher allocation boost, but the chance of winning is lower at higher elevation, so it may take longer for the RNG to play out in your favor.
+Elevation farms are **guaranteed** to earn more SUMMIT rewards than corresponding OASIS farms, due to the \*\*allocation boost \*\*they get by default. Higher elevations are given a much higher allocation boost, but the chance of winning is lower at higher elevation, so it may take longer for the RNG to play out in your favor.
 
 As an example, The PLAINS features 2 totems, each with a 50% chance of win. After only two rounds staked in the plains, you would expect one win and one loss. Averaging out over time **and** with the allocation boost included, you will have won 10% more SUMMIT than the corresponding OASIS farm.
 
@@ -46,4 +47,3 @@ For more information on the **allocation boost**, or elevation farming in genera
 {% content-ref url="totems-and-elevations.md" %}
 [totems-and-elevations.md](totems-and-elevations.md)
 {% endcontent-ref %}
-

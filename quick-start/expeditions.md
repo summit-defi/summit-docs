@@ -12,11 +12,11 @@ Welcome to Expeditions. This is what it's all been building up to, where diamond
 
 While you have been having fun risking your yields and winning the yields of others, rallying your totems, and increasing your bag of SUMMIT, your assets have been hard at work all week earning yields and filling up the Expedition prize pot.
 
-**Every weekend we have three Expedition draws - Friday, Saturday and Sunday where the entirety of the prize pot is distributed to winning SUMMIT holders.**
+**Every day we have an Expedition draw where funds from the prize pot is distributed to winning SUMMIT holders.**
 
-To play and be in with a chance of winning this mammoth prize you simply pledge SUMMIT into the Expedition before the round winner is drawn. When you pledge you will have to pick a Cosmic Deity - **The noble BULL or trickster BEAR.**
+To play and be in with a chance of winning this mammoth prize you simply stake SUMMIT into the Expedition before the round winner is drawn (at any time before the round ends). When you stake you will have to pick a Cosmic Deity - **The noble BULL or trickster BEAR.**
 
-If your deity wins then congrats, you have won a share of the total accumulated Expedition prize pot based on how much SUMMIT you deposited in to the Expedition.
+If your deity wins then congrats, you have won a share of the Expedition prize pot based on how much SUMMIT you deposited in to the Expedition.
 
 ### Cosmic DEITIES
 

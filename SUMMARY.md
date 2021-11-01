@@ -35,7 +35,7 @@
 ## Expedition
 
 * [The Expedition](expedition/overview.md)
-* [Expedition Multi-Pledging](expedition/multi-staking.md)
+* [Everest](expedition/everest.md)
 * [Cosmic Deities](expedition/deities.md)
 * [How are Expeditions Funded?](expedition/funding.md)
 * [Joining the Expedition](expedition/joining.md)
