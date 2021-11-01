@@ -22,7 +22,9 @@ Stronger-handed holders of SUMMIT and SUMMIT-LP can then earn those rewards in t
 \
 **Expeditions transfer opportunity cost from the impatient to the patient.**
 
-We are in the process of building a brand-new system to further improve the utility of SUMMIT, improve the Expeditions and how it potentially interacts with the Summit DeFi protocol as a whole. Fi
+**We are in the process of building a brand-new system to further improve the utility of SUMMIT, improve the Expeditions and how it potentially interacts with the Summit DeFi protocol as a whole. **
+
+**Find out more on Everest **[**here**](everest.md)**.**
 
 ## Joining an Expedition
 
@@ -54,6 +56,8 @@ Expeditions use this style of staking for many reasons, here are a few key examp
 
 The pot is split amongst the users represented by the winning Deity.
 
-A user with 0.5% of the SUMMIT deposited with their Deity is awarded 0.5% of the total pot for the round.
+**Your share of the reward pot is based on your $ value of SUMMIT and/or SUMMIT-LP deposited into the Expedition compared against the overall deposited value into the Expedition.**
+
+As an example, If the overall amount of SUMMIT and SUMMIT-LP deposited into the Expedition is $100,000 then a user who deposits $10,000 worth of SUMMIT and SUMMIT-LP into the Expedition will receive 10% of the total reward pot for that round.
 
 Winnings are available for withdrawal **IMMEDIATELY**, and **DO NOT** need to vest as in Elevation Farms.
