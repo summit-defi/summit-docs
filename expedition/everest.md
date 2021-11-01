@@ -35,4 +35,8 @@ As an example, if you lock your SUMMIT in for 1 day, it will earn 1x Everest how
 * 2x Everest for being a SUMMIT-LP
 * 2x Everest for the extreme locking period
 
-### What's n
+### What's next?
+
+We are in the process of Everest and its tokenomics. Once completed, our developers will submit the final smart contract to be audited before releasing it.
+
+We will continue to update this section on Everest to include more information as we progress through its development.
