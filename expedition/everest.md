@@ -10,7 +10,7 @@ This will allow you to stake your SUMMIT or SUMMIT-LP and receive Everest as you
 
 ### Is there a max supply of Everest?
 
-The maximum supply of Everest is 4 Million, and will be held in its entirety in the Expedition contract where it will it will be awarded to SUMMIT holders who lock their SUMMIT and SUMMIT-LP
+The maximum supply of Everest is 4 Million, and will be held in its entirety in the Expedition contract where it will be awarded to SUMMIT holders who lock their SUMMIT and SUMMIT-LP
 
 ### What can I do with Everest?
 
