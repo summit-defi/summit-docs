@@ -2,11 +2,11 @@
 
 ![](<../.gitbook/assets/RISKS FAQ masthead.jpg>)
 
-## Can I lose my assets? <a href="docs-internal-guid-a9913b50-7fff-cc10-39ab-3596e6286cd0" id="docs-internal-guid-a9913b50-7fff-cc10-39ab-3596e6286cd0"></a>
+## Can I lose my assets? <a href="#docs-internal-guid-a9913b50-7fff-cc10-39ab-3596e6286cd0" id="docs-internal-guid-a9913b50-7fff-cc10-39ab-3596e6286cd0"></a>
 
 The whole point of SUMMIT is that no one needs to lose. Everyone can win! So if you deposit assets in one of our pools you are taking a journey where all you risk is the loss of staking rewards, up to the level of risk you want to play for! Your capital is never at risk.
 
-And with your SUMMIT you get to benefit from EXPEDITION payouts every week as well! With no risk to your deposit.
+And with your Everest you get to benefit from EXPEDITION payouts daily as well! With no risk to your deposit.
 
 The main ways you risk losing anything is if the DeFi product or platform SUMMIT is using to earn yield on collapses, SUMMIT product has an issue, or if there is an issue with the pool that we are pass-through staking to. But this is why we avoid risky DeFi products and accept lower yields in favor of the security that comes from working with proven partners and platforms.
 
@@ -30,7 +30,7 @@ Primarily your deposit fee.  We would hope the yield farming and pass through st
 
 Interacting with our farms and expeditions requires transactions on the blockchain, with cost and speed dependent on the network status and transaction complexity.
 
-This is still DeFi and an investment, and that brings risk. Please be sure to never invest money you can’t afford to lose.  It only takes a mistake on one line of code within a smart contract for funds to be lost in Defi (in our or any other project). &#x20;
+This is still DeFi and an investment, and that brings risk. Please be sure to never invest money you can’t afford to lose.  It only takes a mistake on one line of code within a smart contract for funds to be lost in DeFi (in our or any other project). &#x20;
 
 Funds are invested are your own risk and we take no liability for lost funds.
 
@@ -52,6 +52,6 @@ Our code ensures the randomness, with a little help from our inbuilt random numb
 
 ## What’s the SUMMIT token distribution?
 
-`Simple, fair, launch. `\\
+`Simple, fair, launch.`&#x20;
 
 Depending on the blockchain, we plan on launching with a small amount of tokens, sold in a presale to help pay for audit and other launch expenses. And that’s it. The team will be buying tokens just like everyone else!

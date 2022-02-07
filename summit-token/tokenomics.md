@@ -4,57 +4,63 @@
 
 ## Overview
 
-SUMMIT is the primary token of the Summit DeFi ecosystem, it is earned through farming or by swapping at the designated exchange.
+SUMMIT and EVEREST are the primary tokens of the Summit DeFi ecosystem, it is earned through farming or by swapping.&#x20;
 
-We have designed the Summit ecosystem to give as much value as possible to the SUMMIT token, and will be continuing to add new features that bring additional value in the future.
+We have designed the Summit ecosystem to give as much value as possible to the SUMMIT and EVEREST tokens, and will be continuing to add new features that bring additional value in the future.
 
-## Emissions and Fees
+## SUMMIT Emissions and Fees
 
-_**The emission rate of SUMMIT is 0.25 / second.**_\
-_\*\*\*\*(\~650k tokens a month. We view this as a reasonable amount of inflation for our yield farm).  However, it will not always be 0.25, we will consider reducing it further into the token's life._
+_**The emission rate of SUMMIT is 0.05 / second.**_\
+_(\~130k tokens a month. We view this as a reasonable amount of inflation for our yield farm).  However, it will not always be 0.05, we will consider reducing it further into the token's life._
 
 _**We will look to cap the Supply of SUMMIT at 8 million.**_
 
 **92%** of the block rewards are distributed as farming rewards to pools
 
-> Of that **92%**, **2% **is reserved for referral rewards. Every **7 days** any unclaimed referral rewards will be burned. Be sure to claim any available referral rewards before this burn, or they will be lost forever
+**8%** of the block rewards are sent to the **Treasury.**&#x20;
 
-**8%** of the block rewards are sent to the **Treasury. **
+Block rewards are subject to change, and will fall after a suitable amount of time to prevent runaway inflation if necessary.
 
-Block rewards are subject to change, and will fall after a suitable amount of time to prevent runaway inflation.
+Please note that any tokens that are distributed to team members are in reward for their work. **** Team members are free to sell tokens as they see fit, but have pledged to do so in a way that is NOT harmful to the project. Nobody works for free :)
 
-Please note that any tokens that are distributed to team members are in reward for their work.** **Team members are free to sell tokens as they see fit, but have pledged to do so in a way that is NOT harmful to the project. Nobody works for free :)
+## **EVEREST Emissions**&#x20;
 
-## **The Weak-Hands Pseudo-Tax**
+Everest is our new token earned by locking up your SUMMIT, the longer you lockup the more Everest you earn. The minimum lockup period is 3 days and will earn you 0.1 Everest per SUMMIT locked up. The maximum lockup period is 1 year and will earn you 2.5 Everest for every SUMMIT locked up.  **EVEREST much be returned at the end of the lock period to unlock your SUMMIT.**
+
+You are able to compound both your available and locked SUMMIT yields into Everest without the penalty 50% tax, but this requires a minimum lockup of 30 Days. Compounding into Everest resets the lock to 30 days if your current lockup is less than 30 days at the time of compound.
+
+You are now automatically entered into Expeditions by holding Everest (after choosing your deity) and your reward amounts are proportional to the amount of Everest you hold. Expeditions now pay out SUMMIT and USDC together. The SUMMIT will be market bought using the Expedition Treasury to create buy pressure and support price at key levels.
+
+Also, EVEREST will be our DAO token allowing the community to feed into questions we ask the community when determining how to move SUMMIT forward.
+
+## **The Fairness-Tax**
 
 SUMMIT is **NOT** a reflective token, however the ecosystem is designed to return value to the SUMMIT holders in a delayed fashion thanks to **Expeditions**.
 
-Expeditions are funded with 50% of Deposit Fees, and 92% of passthrough strategy rewards. In practice, this means that users are given the opportunity to 're-earn' 50% of their deposit fees, as well as the rewards that they(and others) would have otherwise earned by staking with another system.
+Expeditions are funded with 60% of passthrough strategy rewards, 50% of Fairness-Tax and 50% of withdrawal fees (which fall over time). In practice, this means that users are given the opportunity to 're-earn' any fees they accrue through continuing to stake in the system. &#x20;
 
-Weak-handed users will exit Summit Defi early, losing their ticket to large Expedition payouts. Despite their early exit, they have already seeded future Expeditions. Their staked funds will be put into passthrough strategies during their staking duration, and any deposit fees paid will also be contributed.
+Weak-handed users will exit Summit DeFi early, losing their ticket to large Expedition payouts. Despite their early exit, they have already seeded future Expeditions. Their staked funds will be put into passthrough strategies during their staking duration, and any deposit fees paid will also be contributed.
 
 This gives the opportunity for other investors, those who outlast, to earn the delayed rewards of the previously mentioned weak-handed users.
 
-**By participating in the Expeditions, lasting SUMMIT holders earn a disproportionally larger share of the passthrough strategy rewards and returned deposit fees that would otherwise have been earned by earlier exiting users.**
+**By participating in the Expeditions, lasting EVEREST holders earn a disproportionally larger share of the passthrough strategy rewards and returned deposit fees that would otherwise have been earned by earlier exiting users.**
 
 ## **Lasting Value**
 
 Yield Multplier was designed with a sustainable SUMMIT token in mind. To increase the longevity of the SUMMIT token, higher elevation farms are given an **allocation boost** to incentivize users to move their staked tokens / LP to higher elevation.\
 \
-Higher elevations are mathematically guaranteed to \_always \_pay out more SUMMIT than lower elevations and oasis farms. Higher elevations feature longer rounds, and a decreased chance of win. Together, these features encourage a longer stay at a higher elevation to consistently break ahead of randomness.
+Higher elevations are mathematically guaranteed to **always** pay out more SUMMIT than lower elevations and oasis farms, even though they have a decreased chance of win.  These features encourage a longer stay at a higher elevation to consistently break ahead of randomness.
 
 > For example:\
 > At the PLAINS, users can expect to win 50% of the time, meaning that after 2 rounds (4 hours total), users can reasonably expect to break ahead of OASIS farms.\
-> However, at the SUMMIT, users can only expect to win 10% of the time (though they can expect to win 10X), meaning that it will take 10 rounds (80 hours total) to reasonably expect to break ahead of OASIS farms.\
+> However, at the SUMMIT, users can only expect to win 10% of the time (though they can expect to win 10X), meaning that it will take 10 rounds (20 hours total) to reasonably expect to break ahead of OASIS farms.\
 > **Of course these expected times to break ahead do not take into account the allocation boost, which will reduce these times.**
 
-## Reduced Price Fluctuation
+## Reduced Price Fluctuation - Yield Locking
 
-All SUMMIT rewards paid out by farms feature \*\*Vesting. \*\*This means that although a user may have won a large sum of SUMMIT, those winnings will become available over the duration of the next round. Vesting prevents many hours of SUMMIT becoming available simultaneously, which would encourage a race to harvest and swap, potentially inviting bots into the ecosystem to undercut our users.
+All SUMMIT rewards paid out by farms feature Yield Locking.  This means that although a user may have won a large sum of SUMMIT, those winnings will not become available immediately. &#x20;
 
-Higher elevation farms feature longer round durations, ensuring that the larger payouts will also take longer to vest and become available for harvest.
-
-Additionally, increased staking at higher elevation will provide a buffer against rapid price fluctuations of the SUMMIT token. Users will be less willing to withdraw their staked tokens and break SUMMIT LP since these tokens will be actively accruing yield to be risked. Leaving a round early can potentially lose a user a large amount of potential rewards, incentivizing users to ride out the price fluctuations instead of panic sell.
+Yield earned requires 28 - 35 days to mature to become 100% claimable with zero penalty. You can claim rewards early before the lock matures however this will incur a 50% tax on the claimed amount. Of this taxed amount half (50%) is sent to the Expedition again to reward SUMMIT holders and the remaining half is Burned reducing SUMMIT supply.
 
 ## **Treasury**
 
@@ -68,8 +74,8 @@ Treasury funds will be used for the following purposes:
 * **Boost vaults to spread awareness.**
 * **Partnerships and expanding SUMMIT reach.**
 *   **Distributed to Summit Team.**\
-    \*\*\*\*\\
+
 
     ***
 
-## &#x20;<a href="emission-rate" id="emission-rate"></a>
+## &#x20;<a href="#emission-rate" id="emission-rate"></a>

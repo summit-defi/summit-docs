@@ -18,10 +18,6 @@ _Elevating funds can be done from the Summit Defi frontend from any staked farm,
 
 You can Elevate funds at any time from any farm to a matching farm (a farm sharing the same token / LP) at a different elevation.
 
-## Can I elevate into the Expedition?
-
-Of course. Expeditions stake SUMMIT and/or SUMMIT-FTM LP, and either can be transferred directly from a farm to an expedition (and back again) without slowing down your farming and yield multiplying at all.
-
 ## Do I lose my winnings if I elevate?
 
 No! Elevating will attempt to harvest any winnings in both the source and destination pool. Any already vested and available to harvest funds will be harvested, and any funds still vesting will continue to do so.

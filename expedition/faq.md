@@ -1,10 +1,10 @@
-# Expedition FAQ & Troubleshooting
+# Expedition FAQ & Troubleshooting fin
 
 ![](<../.gitbook/assets/Expedition FAQ Masthead.jpg>)
 
 ## How is the Expedition funded?
 
-50% of Deposit Fees and 92% of Passthrough Strategy rewards are used to create and fund Expeditions.
+50% of Withdrawl Fees and 60% of Passthrough Strategy rewards are used to create and fund Expeditions.
 
 ## Will the Expedition ever run out of funds?
 
@@ -12,27 +12,15 @@ The simple answer is NO. The CartographerExpedition contract (the one that holds
 
 Expeditions are run on a set schedule to allow time for funds to accumulate. As long as users are farming with Summit DeFi, the expedition will be running strong.
 
-## What if I forget to withdraw my funds?
+## Is Rewards Automatic?&#x20;
 
-If a round ends and you forget to withdraw your funds, you will automatically be entered in the next round with the same Deity.
+Yes! Rewards will accrue automatically **as long as you have chosen the bull or the bear at least once.**
 
-This will continue until all rounds of the Expedition ends, at which point you will have to withdraw your funds and winnings.
-
-Finished expeditions with staked funds are visible in the UI for easy exiting.
-
-## Will two Expeditions ever run at the same time?
-
-There is no intentions to run two at the same time. Though it is theoretically possible, the frontend UI is designed with a single Expedition in mind. Of course, this can be changed if demand is there.
-
-## Can the Expedition be used for your IFO?
-
-We're glad you want to work with us, but the Expedition could be a risky way to distribute your funds.  Expeditions disburse huge amounts of funds simultaneously, which could crash the price of a new token.
-
-Having said that, we would be open to running small Expeditions for projects trying to distribute coins.
+Your choice will roll over from round to round until you change it.
 
 ## Why doesn't the Expedition use Vesting?
 
-1. The winnings from the Expedition are well-established tokens, and less likely to be offloaded.
+1. The winnings from the Expedition are USDC and Summit for those who have already locked Summit for Everest to participate.&#x20;
 2. Well-established tokens will not experience severe price swings, so vesting was deemed unnecessary.
 3. It's way more fun to withdraw large amounts of stablecoins at once.
 
@@ -44,6 +32,5 @@ Though this may seem to make it advantageous to switch Deity after every round, 
 
 ## Will Expeditions cause large SUMMIT price fluctuation around round end?
 
-Perhaps. Expeditions give added value to SUMMIT holders, the price of SUMMIT _should_ increase as the value of SUMMIT increases.
+Perhaps. Expeditions give added value to long term SUMMIT holders, the price of SUMMIT _should_ increase as the value of SUMMIT increases.
 
-Holders trying to exit may however wait for this bump to trade out, hurting those attempting to buy in _only_ to enter the Expedition.

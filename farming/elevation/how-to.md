@@ -1,6 +1,6 @@
 # How to: Elevation Farm
 
-Yield mutiplying is a two step process:
+Yield Multiplying is a two step process:
 
 1. Select a Totem ([**covered here**](../totem/selecting-totem.md)).
 2. Stake with an Elevation farm.
@@ -9,31 +9,10 @@ This guide will assume that you have already [selected a totem](../totem/selecti
 
 ## Staking in an Elevation Farm
 
-1.  **Select an Elevation (PLAINS / MESA / SUMMIT) from the left nav:**
+* **Select an Elevation (PLAINS / MESA / SUMMIT) from the left nav:**
 
-    ****
+![](<../../.gitbook/assets/Choose Elevation.png>)
 
-    **\<todo: insert screenshot>**
+* **Click the Elevation Farm you wish to stake with in a similar way you would have done to join an Oasis pool (Select pool, Approve it and then Deposit it):**
 
-    ****
-2.  **Click the Elevation Farm you wish to stake with:**
-
-    ****
-
-    **\<todo: insert screenshot>**
-
-    ****
-3.  **Approve your funds for Staking **(this will not be required if you have already approved this token / LP in the oasis)**:**
-
-    ****
-
-    **\<todo: insert screenshot>**
-
-    ****
-4.  **Deposit Tokens / LP:**
-
-    ****
-
-    **\<todo: insert screenshot>**
-
-    ****
+![](../../.gitbook/assets/deposit.png)

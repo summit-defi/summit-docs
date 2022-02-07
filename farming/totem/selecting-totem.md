@@ -1,24 +1,32 @@
-# How to: Select Your Totem (Todo - Screenshots)
+# How to: Select/Change Your Totem
 
 ## Initial Totem Selection
 
 To unlock an elevation, you will have to choose a preliminary Totem to guide you. This can be changed at any time.
 
-**1. Select an Elevation from the Left Nav.**
+**1. Select Elevation farms from the Left Nav.**
 
-TODO:
+![](<../../.gitbook/assets/Side Menu Bar (1).png>)
 
-**2. Press the Action Button at the Bottom of the Page**
+**2. Select your elevation from the top Nav** (we have selected plains for this example)
 
-TODO:
+![](<../../.gitbook/assets/Choose Elevation.png>)
 
-**3. Choose your Totem from the Available Options**
+**3. Click Select Totem**
 
-TODO:
+![](<../../.gitbook/assets/No totem Selected.png>)
 
-**4. Confirm your Totem Selection**
+**4. Choose your Totem**
 
-TODO:
+![](<../../.gitbook/assets/Totem choices.png>)
+
+**5. Hit Confirm**&#x20;
+
+![](<../../.gitbook/assets/Totem choice.png>)
+
+
+
+
 
 ## Change Totem
 
@@ -28,16 +36,16 @@ You can switch your Totem at any time without penalty or fee. All funds you have
 
 **1. Select Elevation to switch Totem for from Left Nav.**
 
-TODO:
+![](<../../.gitbook/assets/Choose Elevation.png>)
 
 **2. Select the 'Switch Totem' Icon to the Left of your Totem.**
 
-TODO:
+![](<../../.gitbook/assets/Switch Totem.png>)
 
 **3. Within the Modal, select your New Totem.**
 
-TODO:
+![](<../../.gitbook/assets/Totem Change.png>)
 
-**4. Confirm your New Totem. **_**(If you already have funds staked at this elevation, confirmation will require a transaction to switch funds to new Totem.)**_
+**4. Confirm your New Totem. (If you already have funds staked at this elevation, confirmation will require a transaction to switch funds to new Totem.)**
 
-TODO:
+![](<../../.gitbook/assets/Totem confirm.png>)

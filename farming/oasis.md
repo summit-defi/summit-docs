@@ -3,7 +3,7 @@
 ![](<../.gitbook/assets/The OASIS Masthead.jpg>)
 
 {% hint style="success" %}
-**The OASIS is functionally equivalent to standard yield farming projects, stake tokens / LP, earn SUMMIT. **
+**The OASIS is functionally equivalent to standard yield farming projects, stake tokens / LP, earn SUMMIT.**&#x20;
 
 **How the OASIS fits into the overall Summit DeFi ecosystem, and your strategy, is for you to explore.**
 {% endhint %}
@@ -22,19 +22,21 @@ By mixing your investment amounts between Elevations, you can ensure that your f
 
 ## How To: Farm at the OASIS
 
-1. **Select OASIS from the left nav:**\
-   ****\
-   **\<todo: insert screenshot>**\
-   ****
-2. **Select the OASIS farm you wish to join:**\
-   ****\
-   **\<todo: insert screenshot>**\
-   ****
-3. **Approve the Contract if necessary:**\
-   ****\
-   **\<todo: insert screenshot>**\
-   ****
-4. **Deposit your Tokens / LP and begin earning:**\
-   ****\
-   **\<todo: insert screenshot>**\
-   ****
+* **Select Elevation Farms from the left nav:**\
+
+
+![](<../.gitbook/assets/Side Menu Bar.png>)
+
+* **Select OASIS from the top nav**
+
+![](<../.gitbook/assets/Choose Elevation.png>)
+
+* **Select the OASIS farm you** **wish to join and press "Approve" if not previously done so:**
+
+![](../.gitbook/assets/approve.png)
+
+* **Deposit your Tokens / LP and begin earning:**
+
+![](../.gitbook/assets/deposit.png)
+
+\

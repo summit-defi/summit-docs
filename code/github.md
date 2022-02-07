@@ -8,6 +8,5 @@ Summit DeFi is an open-source project. Though we haven't built anything with it 
 | ----------------------------------------------- | ------------------------------------------------------------------------------- |
 | <p>Smart Contracts</p><p>(incl. test suite)</p> | [summit-defi/summit-contracts](https://github.com/summit-defi/summit-contracts) |
 | Trusted Seeder Webservice                       | summit-defi/summit-scheduler                                                    |
-| Frontend                                        | Private for first 3 months to prevent forking                                   |
+| Frontend                                        | Private  to prevent forking                                                     |
 | Documentation                                   | [summit-defi/summit-docs](https://github.com/summit-defi/summit-docs)           |
-
