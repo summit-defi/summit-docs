@@ -25,7 +25,7 @@ Please note that any tokens that are distributed to team members are in reward f
 
 ## **EVEREST Emissions**&#x20;
 
-Everest is our new token earned by locking up your SUMMIT, the longer you lockup the more Everest you earn. The minimum lockup period is 3 days and will earn you 0.1 Everest per SUMMIT locked up. The maximum lockup period is 1 year and will earn you 2.5 Everest for every SUMMIT locked up.  **EVEREST much be returned at the end of the lock period to unlock your SUMMIT.**
+Everest is our new token earned by locking up your SUMMIT, the longer you lockup the more Everest you earn. The minimum lockup period is 3 days and will earn you 0.1 Everest per SUMMIT locked up. The maximum lockup period is 1 year and will earn you 2.5 Everest for every SUMMIT locked up.  **EVEREST must be returned at the end of the lock period to unlock your SUMMIT.**
 
 You are able to compound both your available and locked SUMMIT yields into Everest without the penalty 50% tax, but this requires a minimum lockup of 30 Days. Compounding into Everest resets the lock to 30 days if your current lockup is less than 30 days at the time of compound.
 
