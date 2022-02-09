@@ -12,18 +12,22 @@ Building Summit DeFi was not a short nor easy project, taking a huge amount of t
 
 If you would like to reach out to us, our tags are:
 
-* Architect
+* Architect (Founder, Dev)
   * discord - `Architect#6339`
   * tg - `@architect_dev`
-* CCN
+* CCN (Founder)
   * discord - `CCN#4487`
   * tg - `@JohnSlack`
-* Yankee Ruin X
+* Yankee Ruin X (Founder)
   * discord - `Yankee Ruin X ™#1681`
   * tg - `@YankeeRuinX`
-* Kuo
-  * discord - `Kuo#1337`
-  * tg - `@SummitKuo`
+*   Kuo (Founder)
 
-**We will never DM you first, **please avoid the scams and never respond to unsolicited DM's. &#x20;
+    * discord - `Kuo#1337`
+    * tg - `@SummitKuo` &#x20;
 
+
+* `Derteil (Marketing)`
+  * discord - `derteil (sum,mit)#9926`
+
+\*\*We will never DM you first, \*\*please avoid the scams and never respond to unsolicited DM's.
