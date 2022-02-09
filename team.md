@@ -29,5 +29,6 @@ If you would like to reach out to us, our tags are:
 
 * `Derteil (Marketing)`
   * discord - `derteil (sum,mit)#9926`
+  * `tg - @Derteil00`
 
 \*\*We will never DM you first, \*\*please avoid the scams and never respond to unsolicited DM's.
