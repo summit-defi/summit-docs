@@ -1,10 +1,10 @@
-# Expedition FAQ & Troubleshooting fin
+# Expedition FAQ & Troubleshooting
 
 ![](<../.gitbook/assets/Expedition FAQ Masthead.jpg>)
 
 ## How is the Expedition funded?
 
-50% of Withdrawl Fees and 60% of Passthrough Strategy rewards are used to create and fund Expeditions.
+50% of Withdrawal Fees and 60% of Passthrough Strategy rewards are used to create and fund Expeditions.
 
 ## Will the Expedition ever run out of funds?
 
@@ -12,16 +12,16 @@ The simple answer is NO. The CartographerExpedition contract (the one that holds
 
 Expeditions are run on a set schedule to allow time for funds to accumulate. As long as users are farming with Summit DeFi, the expedition will be running strong.
 
-## Is Rewards Automatic?&#x20;
+## Are Rewards Automatic?&#x20;
 
 Yes! Rewards will accrue automatically **as long as you have chosen the bull or the bear at least once.**
 
 Your choice will roll over from round to round until you change it.
 
-## Why doesn't the Expedition use Vesting?
+## Does the Expedition use Vesting?
 
-1. The winnings from the Expedition are USDC and Summit for those who have already locked Summit for Everest to participate.&#x20;
-2. Well-established tokens will not experience severe price swings, so vesting was deemed unnecessary.
+1. The winnings from the Expedition are in USDC and Summit for those who have already locked Summit for Everest to participate.&#x20;
+2. The USDC is not locked and available for immediate withdrawal however; the SUMMIT won from the Expedition will need to be locked just like you do for the rewards received from the Elevation farms.
 3. It's way more fun to withdraw large amounts of stablecoins at once.
 
 ## Does the method to choose the 'chance of success' affect the outcome?

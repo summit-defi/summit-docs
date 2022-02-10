@@ -36,10 +36,10 @@
 ## Expedition
 
 * [Everest - The Expedition](expedition/overview/README.md)
-  * [Joining the Expedition fin](expedition/overview/joining.md)
+  * [Joining the Expedition](expedition/overview/joining.md)
 * [Cosmic Deities](expedition/deities.md)
 * [How are Expeditions Funded?](expedition/funding.md)
-* [Expedition FAQ & Troubleshooting fin](expedition/faq.md)
+* [Expedition FAQ & Troubleshooting](expedition/faq.md)
 
 ## FAQ
 
