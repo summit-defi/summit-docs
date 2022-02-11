@@ -4,7 +4,7 @@
 
 * Summit V1 token holders can swap their tokens for Summit V2 at a 10 - 1 ratio from 10:00 UTC
 * There will be no presale of additional tokens
-* At 12:00 UTC the **OASIS & PLAINS** farms go live, immediately earning SUMMIT rewards.
+* At 11:30 UTC the **OASIS**  farms go live, immediately earning SUMMIT rewards.
 * SUMMIT-FTM LP will go live.
 * At 12:00 UTC **The PLAINS** will unlock and the first round of **Yield Multiplying** will start.
 * The PLAINS features two totems: The Tortoise![:plains\_tortoise:](https://cdn.discordapp.com/emojis/889257298197901342.png?size=96)and The Hare![:plains\_hare:](https://cdn.discordapp.com/emojis/889257298403405895.png?size=96)
