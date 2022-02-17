@@ -15,9 +15,11 @@ _(\~130k tokens a month. We view this as a reasonable amount of inflation for ou
 
 _**We will look to cap the Supply of SUMMIT at 8 million.**_
 
-**92%** of the block rewards are distributed as farming rewards to pools
+**80%** of the block rewards are distributed as farming rewards to pools
 
-**8%** of the block rewards are sent to the **Treasury.**&#x20;
+**10%** of the block rewards are sent to the **Treasury.**&#x20;
+
+**10%** of the block rewards are used for **LP Generation.**
 
 Block rewards are subject to change, and will fall after a suitable amount of time to prevent runaway inflation if necessary.
 
