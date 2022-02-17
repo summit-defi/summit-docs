@@ -5,9 +5,9 @@
 Summit DeFi Smart Contract addresses on FTM.
 
 \
-The Summit smart contract system is quite intricate, please see the [Smart Contract GitHub repo](https://github.com/summit-defi/summit-contracts-pure) for full information on each contract and how they interact.
+The Summit smart contract system is quite intricate, please see the [Smart Contract GitHub repo](https://github.com/summit-defi/summit-contracts-v2) for full information on each contract and how they interact.
 
-**The below contracts are for Summit V1 - they will be updated once V2 final contracts are launched.**
+**The below contracts are for Summit V2.**
 
 | Contract Name          | Address                                    | Ftmscan                                                                                              |
 | ---------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
