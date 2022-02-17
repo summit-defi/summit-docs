@@ -44,6 +44,8 @@
 ## FAQ
 
 * [Risks](faq/risks.md)
+* [Emergency Withdrawal](faq/emergency-withdrawal.md)
+* [Token Contracts](faq/token-contracts.md)
 
 ## Developers <a href="#code" id="code"></a>
 
