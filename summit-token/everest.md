@@ -18,7 +18,9 @@ You earn Everest by locking your SUMMIT.  Depending on how long you lock your SU
 
 ![](../.gitbook/assets/Lock.png)
 
-As an example, if you lock your SUMMIT in for 30  day, it will earn 1x Everest however; if you lock your SUMMIT for a year, it will earn a higher amount of 2.5 Everest.
+As an example, if you lock your SUMMIT in for 30  day, it will earn 1x Everest however; if you lock your SUMMIT for a year, it will earn a higher amount of 2.5 Everest. \
+\
+At the end of the lock period, you will need your Everest to redeem your initial SUMMIT about locked up.
 
 How to earn Everest is covered in:
 
