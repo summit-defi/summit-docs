@@ -32,8 +32,8 @@ Create Summit NFTs (more info coming soon)
 Will begin after launches settle and resources free up
 
 * [x] Audit of Summit V2
-* [ ] Launch SUMMIT V2 on Fantom Opera
-* [ ] Grow socials presence, partnerships and giveaways
+* [x] Launch SUMMIT V2 on Fantom Opera
+* [x] Grow socials presence, partnerships and giveaways
 * [ ] Launch on Other Chains (TBD)
 * [ ] Create exclusive EVEREST pools for partners & guests
 
