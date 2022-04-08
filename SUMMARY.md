@@ -2,7 +2,6 @@
 
 * [Summit DeFi Introduction](README.md)
 * [Yield Multiplying By Example](yield-multiplying-by-example.md)
-* [Summit V2 DeFi Launch](launch-timeline.md)
 * [Brief Overview](quick-start/README.md)
   * [Oasis Overview](quick-start/oasis.md)
   * [Totems and Elevations](quick-start/totems-and-elevations.md)
@@ -45,11 +44,16 @@
 
 * [Risks](faq/risks.md)
 * [Emergency Withdrawal](faq/emergency-withdrawal.md)
-* [Token Contracts](faq/token-contracts.md)
+* [Fantom - Token Contracts](faq/fantom-token-contracts.md)
+* [Polygon - Token Contracts](faq/polygon-token-contracts.md)
+
+## Smart Contracts
+
+* [Fantom](smart-contracts/smart-contracts.md)
+* [Polygon](smart-contracts/smart-contracts-1.md)
 
 ## Developers <a href="#code" id="code"></a>
 
 * [Github](code/github.md)
-* [Smart Contracts](code/smart-contracts.md)
 * [Bug Bounty](code/bug-bounty.md)
 * [Audit Completed](code/audit-completed.md)

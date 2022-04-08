@@ -1,6 +1,6 @@
-# Token Contracts
+# Fantom - Token Contracts
 
-Below you will find a list of the token contracts that are used within the Summit DeFi pools:
+Below you will find a list of the token contracts that are used within the Fantom Summit DeFi pools:
 
 | Asset               | Contract Address                           |
 | ------------------- | ------------------------------------------ |

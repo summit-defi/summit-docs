@@ -15,7 +15,7 @@ Each Elevation has its own risk / reward breakdown. Here is a quick comparison b
 _The OASIS has been added only for comparison._\
 _The OASIS not an elevation farm and does not feature yield multipiers._
 
-\_\_[Elevations unlock over the first week after project launch, see launch timeline for further detail.](../../launch-timeline.md)
+\_\_[Elevations unlock over the first week after project launch, see launch timeline for further detail.](broken-reference)
 
 ## What are "Elevation Farms", and what is "Yield Multiplier"?
 

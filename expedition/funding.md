@@ -21,7 +21,9 @@ If we notice too many traders arbitraging against our buying process this will c
 
 ## Deposit Fees & Withdrawal Fees
 
-There are no deposit fees.  Withdrawal fees range from 7% to 1% (decreasing over 7 days), a portion of this will also supplement the Expedition.&#x20;
+Deposits fees will vary between 1.5% to 0% dependant on the chain and the fees applied from the underlying vault. &#x20;
+
+Withdrawal fees range from 7% to 1% (decreasing over 7 days), a portion of this will also supplement the Expedition.&#x20;
 
 ## Passthrough Strategy Rewards
 

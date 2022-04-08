@@ -4,7 +4,7 @@
 
 ## How is the Expedition funded?
 
-50% of Withdrawal Fees and 60% of Passthrough Strategy rewards are used to create and fund Expeditions.
+50% Deposit Fees, 50% of Withdrawal Fees and 60% of Passthrough Strategy rewards are used to create and fund Expeditions.
 
 ## Will the Expedition ever run out of funds?
 
