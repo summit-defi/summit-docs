@@ -34,11 +34,12 @@ Will begin after launches settle and resources free up
 * [x] Audit of Summit V2
 * [x] Launch SUMMIT V2 on Fantom Opera
 * [x] Grow socials presence, partnerships and giveaways
-* [ ] Launch on Other Chains (TBD)
-* [ ] Create exclusive EVEREST pools for partners & guests
 
 ### &#x20;**Q2 2022+ (Speculative)**
 
+* [x] Launch on Polygon
+* [ ] Launch on Other Chains (TBD)
+* [ ] Create exclusive EVEREST pools for partners & guests
 * [ ] Create and establish the EVEREST DAO
 * [ ] Create Summit NFTs (more info coming soon)
 * [ ] Create NFT marketplace page of summit.defi
